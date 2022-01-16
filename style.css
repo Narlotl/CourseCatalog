@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&family=Source+Sans+Pro:wght@400;700&display=swap');
+
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #212121;
+    font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-weight: 700 !important;
+}
+
+.course {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    margin-top: 1rem;
+    border-radius: 7px;
+}
+
+.course * {
+    margin-left: 0;
+    margin-right: 0;
+}

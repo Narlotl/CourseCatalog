@@ -1,0 +1,2654 @@
+[
+    "Career Technical Education (CTE)",
+    {
+        "name": "Automotive Engineering",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Automotive Engineering course offers students the opportunity to study the automotive systems such as engine, ignition, electrical, brakes, drivetrain, and suspension. The program includes both classroom and practical time. The lab section will deal with practical maintenance of automobiles, data retrieval systems; tools and equipment, preventative maintenance, troubleshooting and more. This course may be offered as an ROP course.",
+        "term": "Year"
+    },
+    {
+        "name": "Introduction to Engineering Design",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Introduction to Engineering Design course provides a solid foundation and introduction to Engineering and Design. Students dig deep into the engineering process, applying math, science, and engineering standards to hands−on projects. They work both individually and in teams to design solutions to a variety of problems using 3−D modeling software, and use an engineering notebook to document their work.",
+        "term": "Year"
+    },
+    {
+        "name": "Principles of Engineering",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Principles of Engineering is a foundation course of the high school engineering pathway. This survey course exposes students to some of the major concepts that they will encounter in a post secondary engineering course of study. Through problems that engage and challenge, students explore a broad range of engineering topics, including mechanisms, the strength of materials and structures, automation, and kinematics. The course applies and concurrently develops secondary level knowledge and skills in mathematics, science, and technology. This course follows introduction to Engineering Design course and is an part of an engineering course sequence.",
+        "term": "Year"
+    },
+    {
+        "name": "Computer Integrated Manufacturing (Engineering and Robotics)",
+        "schools": [
+            "Campolindo",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "In this course students will learn automated manufacturing concepts by creating three−dimensional designs with modeling software and producing models of their designs on computer numerically controlled machine tools. The topics covered include robotics, machine tool operating, industrial practices, tool motion, CNC programming, simulations, prototyping, and manufacturing systems. Integrated throughout the course are career technical education standards which include academics skills, communication, career planning, technology, problem solving, safety, responsibility, ethics, teamwork, and technical knowledge. This course is part of an engineering course sequence and follows Project Lead the Way Curriculum.",
+        "term": "Year"
+    },
+    {
+        "name": "Digital Electronics",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "From smartphones to appliances, digital circuits are all around us. This course provides a foundation for students who are interested in electrical engineering, electronics, or circuit design. Students study topics such as combinational and sequential logic and are exposed to circuit design tools used in industry, including logic gates, integrated circuits, and programmable logic devices.",
+        "term": "Year"
+    },
+    {
+        "name": "Wood Technology",
+        "schools": [
+            "Acalanes",
+            "Las Lomas"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Wood Technology provides students with the knowledge to safely operate and maintain both hand and power tools as well as woodworking machines. Throughout the year, students will complete several projects while learning the identification  and use of tools, woods, and basic joinery and finishing techniques. Emphasis is placed on safety, responsibility, and cooperation.",
+        "term": "Year"
+    },
+    {
+        "name": "Wood Technology−Advanced",
+        "schools": [
+            "Acalanes",
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "NA",
+        "description": "Advanced Wood Technology provides the student with the opportunity to further develop the skills learned in Wood Technology, with the addition of advanced joinery and finishing techniques, and the use of additional materials such as plastics, metals, and casting resins. Students will be encouraged to plan and develop projects of their own conception. Throughout the year, emphasis is placed on safety, responsibility, and cooperation.",
+        "term": "Year"
+    },
+    {
+        "name": "Wood Technology and Engineering",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "NA",
+        "description": "Wood Technology and Engineering is a course that provides students with experiences in the elements of art and principles of design using wood as the primary artistic vehicle. Topics include industrial drawing/CAD, CNC, Engineering, Laser Engraving, design and construction techniques. Students will be provided with the knowledge to safely operate and maintain both hand and power tools as well as woodworking machines. Throughout the year, students will complete projects while learning the identification and use of tools, woods, basic joinery and finishing techniques, and CAD and CNC basics. Emphasis is placed on safety , responsibility, and cooperation. Course has been submitted and is pending a−g approval.",
+        "term": "Year"
+    },
+    {
+        "name": "Foods 1",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Foods 1 is the first course in a comprehensive standards−based culinary arts sequence.  The class will enable students to understand basic nutrition, food preparation techniques, care and use of equipment, consumer education, entertaining, kitchen safety and sanitation.",
+        "term": "Year"
+    },
+    {
+        "name": "Foods 2",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Foods 1",
+        "description": "Foods 2 is the second course in a comprehensive standard−based culinary arts sequence. The class builds on student’s knowledge of nutrition, preparation techniques, equipment use and care, and consumerism. The class will provide hands−on experience in all elements of food preparation including various international foods recipes.",
+        "term": "Year"
+    },
+    {
+        "name": "Foods Adv. Baking & Cooking",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Foods 1",
+        "description": "Foods Adv. Baking & Cooking is the second course in a comprehensive standard−based culinary arts sequence.  The class builds on student’s knowledge of nutrition, preparation techniques, equipment use and care, and consumerism.  The class will provide hands−on experience in all elements of food preparation including various international foods recipes. This course may be offered as an ROP course.",
+        "term": "Year"
+    },
+    {
+        "name": "Foods Adv. Internat'l Cuisine",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Foods 1",
+        "description": "This course focuses on understanding the differences and commonalities we have with other cultures around the world.  A common denominator in studying world cultures is cuisine.  In studying the cuisine of a people or a region, we learn about a country’s geography and climate, traditions, taboos and social mores, unique adaptations caused by environment on a food supply, pressures on a population to trade, export, import, permit a closed or open society, and cultural values.  Students will acquire a greater understanding of their world and the cultural diversity that exists in their own community. This course may be offered as an ROP course.",
+        "term": "Year"
+    },
+    {
+        "name": "Work Experience Education",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Work experience is a one−semester elective class combining paid employment experience with classroom instruction emphasizing an introduction to work necessary for job success and fulfillment and classroom training in employability skills.  Students are employed and paid a standard wage at the job site while enrolled in a concurrent course at their high school.  Students develop positive work habits, self−confidence, and job related skills which can be used to locate, secure, and retain employment in the community.  Students must attend weekly related instruction meetings at their school, undertake lessons and activities, and acquire general and specific occupational skills through a combination of supervised paid employment and instruction.  Regular job site visitations and supervision by the work experience coordinator is a fundamental part of the course. Students must be at least 16 years of age and concurrently employed a minimum of five hours per week in a paid position covered by workmen’s compensation.  Work Experience Education is only offered on the Las Lomas campus.  Students at other campuses may consult with their counselor to pursue this option.",
+        "term": "Year"
+    },
+    "English",
+    {
+        "name": "English 1",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9"
+        ],
+        "previous_courses": "None",
+        "description": "English 1 focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. There is an emphasis on critical thinking, increasingly complex texts, informational text and nonfiction, integrating technology, and academic vocabulary.",
+        "term": "Year"
+    },
+    {
+        "name": "English 2",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10"
+        ],
+        "previous_courses": "English 1",
+        "description": "English 2 builds and extends the knowledge learned in English 1 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. There is an increased emphasis on critical thinking, increasingly complex texts, informational text and nonfiction, integrating technology, and academic vocabulary.",
+        "term": "Year"
+    },
+    {
+        "name": "English 3",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11"
+        ],
+        "previous_courses": "English 2",
+        "description": "English 3 builds and extends the knowledge learned in English 2 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. There is an increased attention on critical thinking, increasingly complex texts, informational text and nonfiction, integrating technology, and academic vocabulary. Emphasis is placed on traditional and contemporary American Literature and nonfiction/informational reading materials.",
+        "term": "Year"
+    },
+    {
+        "name": "English 3 Honors",
+        "schools": [
+            "Acalanes",
+            "Miramonte"
+        ],
+        "years": [
+            "11"
+        ],
+        "previous_courses": "English 2",
+        "description": "English 3 Honors builds and extends the knowledge learned in English 2 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. There is an increased attention on critical thinking, increasingly complex texts, informational text and nonfiction, integrating technology, and academic vocabulary. Emphasis is placed on traditional and contemporary American Literature and nonfiction/informational reading materials.This course provides additional depth of study in the development of advanced, writing, analysis, and literary criticism skills beyond that required within the English 3 curriculum.",
+        "term": "Year"
+    },
+    {
+        "name": "AP English Language & Composition",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11"
+        ],
+        "previous_courses": "English 2",
+        "description": "The AP English Language and Composition course focuses on the development and revision of evidence−based analytic and argumentative writing, the rhetorical analysis of nonfiction texts, and the decisions writers make as they compose and revise. Students evaluate, synthesize, and cite research to support their arguments. Additionally, they read and analyze rhetorical elements and their effects in nonfiction texts—including images as forms of text— from a range of disciplines and historical periods. This course may be taken to satisfy the third year of English language requirement.",
+        "term": "Year"
+    },
+    {
+        "name": "English 4",
+        "schools": [
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "English 3",
+        "description": "English 4 builds and extends the knowledge learned in English 3 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. There is an increased attention on critical thinking, increasingly complex texts, informational text and nonfiction, integrating technology, and academic vocabulary. Emphasis is placed on world literature and nonfiction. The course prepares students for the rigor of college−level reading and writing.",
+        "term": "Year"
+    },
+    {
+        "name": "AP English Literature & Composition",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "English 3",
+        "description": "In the AP English Literature and Composition course, students devote themselves to the study of literary works written in, or translated into, English. Careful reading and critical analysis of such works of fiction, drama, and poetry provide rich opportunities for students to develop an appreciation of ways literature reflects and comments on a range of experiences, institutions, and social structures. Students will examine the choices literary writers make and the techniques they utilize to achieve purposes and generate meanings. This course may be taken to satisfy the fourth year of English language requirement.",
+        "term": "Year"
+    },
+    {
+        "name": "English 4: Deconstructing Race",
+        "schools": [
+            "Acalanes",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "English 3",
+        "description": "English 4: Deconstructing Race course builds and extends the knowledge learned in English 3 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. In this course, students will discuss, write, and engage in research about their origins, their identities, and the awareness of how race, racism, and anti−racism impact their lives.  This course may be taken to satisfy the fourth year of English language requirement.",
+        "term": "Year"
+    },
+    {
+        "name": "English 4: Don't Tread on Me: Rebels, Outcasts & Iconoclasts in Literature",
+        "schools": [
+            "Acalanes"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "English 3",
+        "description": "English 4: Don’t Tread on Me: Rebels, Outcasts and Iconoclasts in Literature builds and extends the knowledge learned in English 3 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. There is an increased attention on critical thinking, increasingly complex texts, informational text and nonfiction, integrating technology, and academic vocabulary. This course will examine how a wide variety of characters seek to shape their own paths despite legal, social, cultural and religious restrictions. This course may be taken to satisfy fourth year of English language graduation requirement.",
+        "term": "Year"
+    },
+    {
+        "name": "English 4: Literature, Film and Media",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "English 3",
+        "description": "English 4: Literature, Film and Media Studies builds and extends the knowledge learned in English 3 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. There is an increased attention on critical thinking, increasingly complex texts, information text and nonfiction integrating technology, and academic vocabulary. This course focuses on the role of media − film, tv, news, media, and technology − in the world today and uses seminal texts of literature to further analyze media and media influence. This course may be taken to satisfy fourth year of English language requirement.",
+        "term": "Year"
+    },
+    {
+        "name": "English 4: The Mysterious, the Grotesque & the Fantastic",
+        "schools": [
+            "Acalanes"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "English 3",
+        "description": "English 4: The Mysterious, the Grotesque and the Fantastic builds and extends the knowledge learned in English 3 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. There is an increased attention on critical thinking, increasingly complex texts, informational text and nonfiction, integrating technology, and academic vocabulary. This course focuses on the evolution of the modern mystery plot, tracing a long arc from its emergence in eighteenth−century Gothic fiction to its contemporary reinventions in radio, movies, TV and podcasts. This course may be taken to satisfy fourth year of English language graduation requirement.",
+        "term": "Year"
+    },
+    {
+        "name": "English 4: Women's Literature",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "English 3",
+        "description": "English 4: Women’s LIterature course builds and extends the knowledge learned in English 3 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. The course focuses on literature written by women as well as exploring gender through the  women’s literature. This course may be taken to satisfy the fourth year of English language requirement.",
+        "term": "Year"
+    },
+    {
+        "name": "English 4/WISE",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "English 3",
+        "description": "English 4 focuses on the advanced study of world literature and non−fiction, and prepares students for the rigor of college−level reading and writing.  The course includes extensive writing, analysis of text, and literary criticism, as well as the development of speaking, listening and vocabulary skills.  WISE emphasizes real world, outside−of–the−classroom experience and is designed for the self−motivated student. This course meets the needs of seniors interested in an alternative to the 8th semester of traditional English 4 curriculum.   As the district’s mission statement encourages, this course offers students the opportunity to “excel in a global society.” (5 units per semester).",
+        "term": "Year"
+    },
+    {
+        "name": "Journalism 1−4",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Journalism students will expand their English/Language Arts and visual arts skills through creating and publishing the school newspaper.  Students are required to write monthly assignments for the newspaper and other class projects.  They practice varied forms of journalistic writing including news, features, and sports stories, as well as reviews and editorials.  Students learn laws and ethical standards related to journalism.  In the process of writing their stories, laying out newspaper pages, and designing advertising, students learn to use specialized software for word processing, page layout, and graphic design.  This course is designed for students who are interested in refining their writing skills as well as exploring careers in journalism. This course may be offered as an ROP course. Pre−Requisites:  Journalism 1: English 1 and teacher approval; Journalism 2: Journalism 1 and teacher approval; Journalism 3: Journalism 2 and teacher approval.",
+        "term": "Year"
+    },
+    {
+        "name": "Public Speaking 1",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Introduction to Public Speaking, terminology, basic skills and techniques for presentation of both fiction and non−fiction.   Considerable writing and use of modern library computer research required.  A unit in mass media, film, and cinematography is included.",
+        "term": "Year"
+    },
+    {
+        "name": "Public Speaking 2, 3, 4",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Public Speaking 1 or (Oral Interpretation at MHS)",
+        "description": "Formal dissertations, in−depth analysis of fiction, non−fiction and current events, debate, panel discussions and strict speech criticism.  Advanced writing and application of modern computer research required.  A unit in mass media, film, and cinematography is included.",
+        "term": "Year"
+    },
+    {
+        "name": "Public Speaking/Creative Writing",
+        "schools": [
+            "Acalanes"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Public Speaking students experience a variety of speaking situations and practice both formal and informal public speaking and debate.  For Creative Writing the assumption is made that the student has creative ability in the literary field.  Writing will include autobiography, fiction, drama, and poetry.  This course is designed for students with above−avarage writing skills.",
+        "term": "Year"
+    },
+    {
+        "name": "English Language Development (ELD)",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "The English Language Development (ELD) program is for students who are not proficient in English. The ELD program helps students master English so they can be successful in their academic courses. There are three areas of instruction: Reading, Grammar and Writing, and Conversation and Vocabulary. Students take placement tests to see which level they need, and they take quarterly benchmark tests to assure they are ready for the next level. ELD Reading focuses on word analysis and vocabulary, reading comprehension and analysis strategies, and reading fluency. ELD Grammar and Writing teaches the conventions of English: syntax, verb tenses, sentence structure, and composition. ELD Conversation and Vocabulary focuses on students’ speaking and listening skills, as well as developing their knowledge of content area and academic vocabulary.",
+        "term": "Year"
+    },
+    {
+        "name": "Literacy",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Students needing English/Language Arts intervention",
+        "description": "Literacy course is designed to provide support and develop academic literacy skills focused on transferring skills across disciplines. The class will provide students with a small classroom environment where they can receive individual attention and build confidence. The class will focus on teaching students effective learning strategies. By learning about and using a variety of research−based strategies, students will learn how they best learn.",
+        "term": "Year"
+    },
+    "Math",
+    {
+        "name": "Algebra A",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11"
+        ],
+        "previous_courses": "None",
+        "description": "Algebra A reviews, formalizes, and extends the mathematics that students learned in Common Core math 6  through 8. This course includes content standards from the conceptual categories of Number and Quantity, Algebra, Functions, and Statistics and Probability. Through the application of the Standards for Mathematical Practice, students will increasingly engage with the subject matter and grow in mathematical maturity and expertise.",
+        "term": "Year"
+    },
+    {
+        "name": "Algebra B",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Algebra B formalizes and extends the mathematics that students learned in Common Core math 6 – 8. This course includes content standards from the conceptual categories of Number and Quantity, Algebra, Functions, and Statistics and Probability. Through the application of the Standards for Mathematical Practice, students will increasingly engage with the subject matter and grow in mathematical maturity and expertise. Completion of Algebra A and Algebra B fulfills the Algebra 1 graduation requirement.",
+        "term": "Year"
+    },
+    {
+        "name": "Algebra 1",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Algebra 1 formalizes and extends the mathematics that students learned in Common Core math 6 – 8. This course includes content standards from the conceptual categories of Number and Quantity, Algebra, Functions, and Statistics and Probability. Through the application of the Standards for Mathematical Practice, students will increasingly engage with the subject matter and grow in mathematical maturity and expertise.",
+        "term": "Year"
+    },
+    {
+        "name": "Algebra 1",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Algebra 1 formalizes and extends the mathematics that students learned in Common Core math 6 – 8. This course includes content standards from the conceptual categories of Number and Quantity, Algebra, Functions, and Statistics and Probability. Through the application of the Standards for Mathematical Practice, students will increasingly engage with the subject matter and grow in mathematical maturity and expertise.",
+        "term": "Year"
+    },
+    {
+        "name": "Math Applications",
+        "schools": [
+            "Acalanes",
+            "Campolindo"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra 1",
+        "description": "Math Applications provides an alternative to the traditional study of Geometry and Algebra 2. Students will experience a highly relevant and “hands−on” approach to learning. Math Applications will  incorporate selected concepts from Geometry and Algebra 2 enabling students to gain experience solving real−life mathematical problems.",
+        "term": "Year"
+    },
+    {
+        "name": "Financial Algebra",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Financial Algebra is a mathematical course that is algebra−based and applications−oriented. The course addresses college preparatory mathematics topics from Algebra, Statistics and Probability and more under seven financial umbrellas: Banking, Investing, Credit, Employment and Income Taxes, Automobile Ownership, Independent Living, and Retirement Planning and Household Budgeting. The mathematics topics contained in this course are introduced , developed, and applied in an as−needed format in the financial settings covered. Students are encouraged to use a variety of problem−solving skills and strategies in real−world contexts, and to question outcomes using mathematical analysis and data to support their findings.",
+        "term": "Year"
+    },
+    {
+        "name": "Geometry",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra 1",
+        "description": "The fundamental purpose of the California State Standards Geometry course is to formalize and extend the mathematics that students learned in the middle grades. This course includes content standards from the conceptual categories of Congruence, Similarity, Right Triangles and Trigonometry, Circles, Expressing Geometric Properties with Equations, Geometric Measurement and Dimension, Conditional Probability, Rules of Probability and Using Probability and Statistics. Through the application of the Standards for Mathematical Practice, students will increasingly engage with the subject matter and grow in mathematical maturity and expertise.",
+        "term": "Year"
+    },
+    {
+        "name": "Geometry Advanced",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra 1",
+        "description": "The fundamental purpose of the California State Standards Geometry Advanced course is to formalize and extend the mathematics that students learned in the middle grades. This is an accelerated, fast paced mathematics course which includes content standards from the conceptual categories of Congruence, Similarity, Right Triangles and Trigonometry, Circles, Expressing Geometric Properties with Equations, Geometric Measurement and Dimension, Conditional Probability, Rules of Probability and Using Probability and Statistics. Through the application of the Standards for Mathematical Practice, students will increasingly engage with the subject matter and grow in mathematical maturity and expertise.",
+        "term": "Year"
+    },
+    {
+        "name": "Algebra 2",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra 1",
+        "description": "Algebra 2 complements and expands the mathematical concepts of Algebra 1 and Geometry. Topics include the real and complex number systems. Families of functions studied include: linear, quadratic, polynomial, exponential, logarithmic, rational and radical functions. Other units included are statistics, sequences and series, and the study of parabolas as conic sections. An introduction to trigonometry includes the unit circle and graphing trigonometric functions.",
+        "term": "Year"
+    },
+    {
+        "name": "Algebra 2 Advanced",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra 1 and Geometry",
+        "description": "Algebra 1 and GeometryThe Algebra 2 Advanced complements and expands the mathematical concepts of Algebra 1 and Geometry and meets all the objectives of the Algebra 2 course. Topics include the real and complex number systems. Families of functions studied include: linear, quadratic, polynomial, exponential, logarithmic, rational and radical functions. Other units included are statistics, sequences and series, and the study of parabolas as conic sections. The curriculum in this course includes  additional content intended to significantly expand students understanding of trigonometry. This includes studying circular trigonometry in greater depth, proving and applying trig identities, working with trigonometric applications and inverse trigonometry, and solving trigonometric equations. Students will frequently use models to make sense of problems in order to deepen their understanding of the concepts of Algebra 2.",
+        "term": "Year"
+    },
+    {
+        "name": "Algebra 2/Pre−Calculus Honors",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra 1 and Geometry",
+        "description": "This accelerated course covers the Algebra 2 Advanced content, but in greater depth. In addition to the Algebra 2 topics that include real and complex numbers, families of functions and concepts of trigonometry, included are Pre−Calculus topics such as a complete study of conic sections, polar coordinates, vectors, parametric equations, and introductions to limits and derivatives. The course is designed to prepare students to take Calculus AB the following year. Students will be expected to solve higher order thinking problems and demonstrate procedural fluency in their responses.",
+        "term": "Year"
+    },
+    {
+        "name": "Math Analysis",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra 2",
+        "description": "The purpose of Math Analysis course is to strengthen conceptual understanding of trigonometry, graphing, probability, and algebraic techniques needed to pursue further studies in mathematics. Students will be introduced to matrices, vectors, polar graphing, conic sections, and statistics.",
+        "term": "Year"
+    },
+    {
+        "name": "Pre−Calculus Honors",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra2 Advanced",
+        "description": "Pre−Calculus combines many of the trigonometric, geometric and algebraic techniques needed to prepare students for the study of calculus and strengthens their conceptual understanding of problems and mathematical reasoning in solving problems. This course takes a functional point of view toward these topics. Students will be introduced to matrices, vectors, polar graphing, parametric equations, conic sections, and introductory calculus topics.",
+        "term": "Year"
+    },
+    {
+        "name": "Statistics",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra 2",
+        "description": "This course introduces the discipline of statistics to students to provide a solid foundation in problem solving and processing statistical information. Students will leverage statistical analysis and computation using a variety of real−world problems and information from business, science, economics and other sources.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Statistics",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Pre−Calculus",
+        "description": "This college level introductory course in statistics is designed to introduce students to the major concepts and tools for collecting, analyzing and drawing conclusions from data.  Students interested in pursuing college majors in the social services, health services and business will benefit from this course.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Calculus AB",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra II/Pre−Calculus Honors",
+        "description": "AP Calculus AB completes a college curriculum in variable calculus.  The course focuses on developing the student's understanding of the concepts of calculus and providing experience with its methods and applications.  The themes of derivatives, integrals, limits, approximation and applications and modeling are used to present a cohesive whole in the study of calculus.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Calculus BC",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "Advanced Placement Calculus AB",
+        "description": "AP Calculus BC completes a college curriculum in variable calculus.  This course focuses on developing the student's understanding of the concepts of calculus and providing experience with its methods and applications.  The themes of derivatives, integrals, limits, approximation and applications and modeling are used to present a cohesive whole in the study of calculus.  This course also includes the study of polynomial approximations and series.",
+        "term": "Year"
+    },
+    {
+        "name": "Introduction to Computer Science",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This course exposes students to the fundamental principles and concepts of computer science and programming.  Students will learn to code through hands−on assignments which include game design, lab completion, independent projects and pair programming. This course serves as both an introduction to, and foundation for, further study in computer science.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Computer Science A",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Intro to Computer Science",
+        "description": "AP Computer Science A students will continue studying Java and object oriented programming methodology in preparation for the AP exam. There is an emphasis on problem solving, algorithm development, data structures, design and abstraction. While Introduction to Computer Programming is a preferred previous course of study, students who are highly motivated or who have prior programming experience or strong math backgrounds may take AP without the prerequisite year. If the school site offers this course as an ROP course, the student must be in 11th or 12th grade in order to enroll.",
+        "term": "Semester"
+    },
+    {
+        "name": "AP Computer Science Principles",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Introduction to Computer Programming, Pre−calculus or above",
+        "description": "AP Computer Science Principles introduces students to the central ideas of computer science, instilling the ideas and practices of computational thinking and inviting students to understand how computing changes the world.  The rigorous course promotes deep learning of computational content, develops computational thinking skills, and engages students in the creative aspects of the field. The course is unique in its focus on fostering students to be creative. Students are encouraged to apply creative processes when developing computational artifacts and to think creatively while using simulations to explore questions that interest them.",
+        "term": "Year"
+    },
+    {
+        "name": "PE 9",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9"
+        ],
+        "previous_courses": "None",
+        "description": "The ninth grade Physical Education course encompasses areas of physical education and is based on the California PE Model Standards. Students will focus on the development of proficient movement skills in each area of physical education; expanding their capabilities for independent learning; and examining practices that allow for sound decision making to enhance successful participation in movement activities.",
+        "term": "Year"
+    },
+    {
+        "name": "PE Cardio Fitness",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This course will consist of combination of aerobic activities including warm−up techniques, high and low impact aerobics, step training, flexibility exercises, hand−held weights resistance training and specific muscle group work designed for all students. Students will also use aquatic techniques to improve cardiovascular endurance; water aerobics and aquatic interval training.  Students will be also given the opportunity to learn techniques in power/cardio –walking and how it can improve cardiovascular endurance and encourage mental well−being.",
+        "term": "Year"
+    },
+    {
+        "name": "PE Fundamentals of Yoga",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Fundamentals of Yoga is a course that will provide students with an exercise experience using a non−competitive approach. Students will learn the basics of relaxation and breath techniques as well as the basic poses of Yoga: seated and standing poses, backbends, twists, balances and inversions. It will be a goal of the course to harmonize the body, mind, and spirit through a combination of physical movement, yoga postures, breathing and biofeedback techniques.",
+        "term": "Semester"
+    },
+    {
+        "name": "PE Yoga, Pilates & Fitness Training",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This course provides an exercise experience using a non−competitive approach. The primary physical activities involve experiences in yoga, Pilates and other whole−life fitness programming. Students will establish a set of personal fitness goals. One course goal is to harmonize the body, mind, and spirit through a combination of physical movement, yoga postures, breathing and biofeedback techniques. This course may and is most often repeated for two semesters.",
+        "term": "Semester"
+    },
+    {
+        "name": "PE Net Sports ",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This course will provide students with the opportunity to learn skills and techniques in a variety of net games and lifetime activities. Emphasis will be placed on team, partner and individual strategy and may include badminton, tennis, volleyball, pickle ball, street hockey, disc golf, archery, and golf.",
+        "term": "Semester"
+    },
+    {
+        "name": "PE Team Sports",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "In this course students will be given the opportunity to learn the skills and techniques of a variety of team sports through participation. Sports may include flag football, indoor/outdoor soccer, basketball, volleyball, softball, hockey,  rugball, team handball and ultimate frisbee. Emphasis will be placed on sportsmanship and offensive and  defensive strategies.",
+        "term": "Semester"
+    },
+    {
+        "name": "PE Weight Training",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "In Weight Training, students will learn the fundamentals of weight training with emphasis on body development and maintenance as well as safety factors involved in strength conditioning. This course may and is most often repeated for two semesters.",
+        "term": "Semester"
+    },
+    {
+        "name": "Athletic Physical Education",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11"
+        ],
+        "previous_courses": "None",
+        "description": "The purpose of Athletic Physical Education is to provide options for student to engage in alternative pathways for which they can receive physical education credit towards graduation. To ensure that all students are exposed to a well−rounded Physical Education curriculum and participate in a series of state−mandated physical performance tests later in ninth grade, freshmen are not eligible to participate in Athletic PE. This program allows eligible students to gain up to 10 credits in the area of Physical Education by participating in the California Interscholastic Federation (CIF) approved sports. CIF sports are school sponsored sports and do not include sports offered outside of the school. Students gain five (5) credits for participating in a season of sport. Participating in two (2) seasons of sport will earn a student 10 credits. Students may not earn more than 10 credits through Athletic PE. The program is not available to 12th grade students.",
+        "term": "Semester"
+    },
+    {
+        "name": "The Living Earth (formerly Biology)",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10"
+        ],
+        "previous_courses": "None",
+        "description": "The Living Earth course, based on the Next Generation Science Standards, explores relationships between the living and nonliving components of Earth’s systems. By using science and engineering practices, cross−cutting disciplinary concepts, and evidence from experiments, research, and observations, students will learn how to formulate questions, evaluate claims, and develop models to make interpretations and investigate the natural world. Topics will include: Ecosystems Interactions and Energy, History of Earth’s Atmosphere: Photosynthesis and Respiration, Evidence of Evolution, Inheritance of traits, Structure, Function, and Growth (from cells to organisms) and Ecosystem Stability and the Response to Climate Change. The Living Earth course is replacing the Biology course and is required for graduation.",
+        "term": "Year"
+    },
+    {
+        "name": "Chemistry in the Earth System (formerly Chemistry)",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth",
+        "description": "Chemistry in the Earth System, a course based on the Next Generation Science Standards, explores the way in which matter interacts, combines and changes. This course explains how chemical processes help drive the earth system. By using science and engineering practices, evidence from experiments, research, and observations, students will learn how to formulate questions, evaluate claims, use mathematics and computational thinking, and develop models to make interpretations and investigate the natural world.",
+        "term": "Year"
+    },
+    {
+        "name": "Geology",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth",
+        "description": "The Geology course offers a comprehensive study of the earth and space sciences. Topics include a study of geology, oceanography, weather, climate and astronomy which will provide students with an understanding of Earth as a set of interconnected systems, dynamically evolving through time. The course is lab focused and will provide students with an opportunity to integrate science concepts while learning about the processes that continue to shape the Earth and our environment.",
+        "term": "Year"
+    },
+    {
+        "name": "Physics of the Universe (formerly Physics)",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Chemistry in the Earth System",
+        "description": "Physics of the Universe course, based on the Next Generation Science Standards, explores major aspects of physics while integrating Earth and Space Science concepts. By using science and engineering practices, cross−cutting disciplinary concepts, and evidence from experiments, research, and observations, students will learn how to formulate questions, evaluate claims, and develop models to make interpretations and investigate the physical world. Topics will include: Forces and Motion, Forces at a Distance, Energy Conservation and Renewable Energy, Nuclear Processes and Earth History, Waves and Electromagnetic Radiation, Stars and the Origins of the Universe.",
+        "term": "Year"
+    },
+    {
+        "name": "Engineering & Applied Physics Honors",
+        "schools": [
+            "Acalanes",
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Chemistry in the Earth System and Algebra 2/Pre−Calculus Honors",
+        "description": "Engineering and Applied Physics covers topics generally covered in an introductory college engineering course.  The course provides an introduction to the engineering profession.  Introductory material in chemical, mechanical, aerospace, electrical, computer, civil and biomedical engineering will give the students an appreciation of the diversity of the field.  Students will perform a variety of structured activities and will be expected to complete a final project that integrates topics learned throughout the year.",
+        "term": "Year"
+    },
+    {
+        "name": "Human Anatomy and Physiology",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth and either Chemistry in the Earth System or Geology",
+        "description": "Human Anatomy and Physiology is a course that examines the inner workings of the human body in terms of structure and function along with systemic relationships focusing on the tissues, integumentary, skeletal, muscular, nervous, cardiovascular, immuna, respiratory, digestive, urinary, reproductive and endocrine systems.  This course will involve laboratory activities, projects, dissections, textbook material, models, diagrams, journal writings and clinical studies. Students will actively ask, find, and determine answers related to human biology in health and disease.",
+        "term": "Year"
+    },
+    {
+        "name": "Biotechnology",
+        "schools": [
+            "Acalanes",
+            "Campolindo"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth and either Chemistry in the Earth System or Geology",
+        "description": "Biotechnology instructs students in the laboratory techniques and basic concepts of the field of bioscience.  Included are DNA labs, making gels for electrophoresis, bacteriological techniques such as plating, culturing strains of bacteria and manipulating the DNA to achieve transformation of the colonies, determining and making solutions, and microscopic techniques such as oil−emersion and staining of various types of tissue. Instruction in DNA theory, ethics, and technology and society will be included to acquaint students with this rapidly developing field. Students will conduct individual and team research projects and use effective technical writing to express the results of their work. Sound laboratory procedures and safety will be stressed. Students will use and analyze research publications and scientific literature. Opportunities for post−secondary education will be explored and students will gain a broad awareness of both scientific and technologial career paths. This course may be offered as an ROP course.",
+        "term": "Year"
+    },
+    {
+        "name": "Environmental Science",
+        "schools": [
+            "Acalanes",
+            "Campolindo"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth and either Chemistry in the Earth System or Geology",
+        "description": "Environmental Science is an elective integrated science course which provides students with the scientific principles, concepts, methodologies and experiences required to understand the inter−relationships of the natural world, identify and analyze both natural and man−made environmental problems, evaluate risks associated with these problems, and to examine alternative solutions for resolving and/or preventing these problems.  This is a lab course.  Students utilize modern technological equipment as well as the campus as a living laboratory.",
+        "term": "Year"
+    },
+    {
+        "name": "Principles of Biomedical Science",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Principles of Biomedical Science course provides students with an introduction to biomedical science through exciting hands−on projects and problems. Students investigate concepts of biology and medicine as they explore health conditions including heart disease, diabetes, sickle−cell disease, hypercholesterolemia, and infectious diseases. Students will practice problem solving with structured activities and programs to open−ended projects and problems that require them to develop planning, documentation, communication and other professional skills. The course is designed to provide an overview of all the courses in the biomedical science program and lay the scientific foundation for subsequence courses.",
+        "term": "Year"
+    },
+    {
+        "name": "Human Body Systems",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth, Algebra 1, Principles of Biomedical Science",
+        "description": "Human Body Systems course builds upon knowledge gained in the Principles of Biomedical Science and is a course where students examine the interactions of human body systems as they explore identity, power, movement, protection, and homeostasis (balance) in the body. Exploring science in action, students build organs and tissues, use data acquisition software to monitor body functions such as muscle movement, reflex and voluntary action, and respiration; and take on the roles of biomedical professionals to solve real−world medical cases.",
+        "term": "Year"
+    },
+    {
+        "name": "Analytical Forensic Science",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth and Chemistry in the Earth System",
+        "description": "In this class, emphasis is on understanding the underlying scientific theories of forensic science. The class will build upon the student’s prior knowledge of biology and chemistry, using analytical chemistry techniques to analyze and identify trace evidence, including DNA. Students will evaluate the constituents of materials by organic, inorganic, and biochemical analysis, and use their academic and laboratory skills to develop a deeper understanding of science. A sound foundation in the scientific principles underlying the laboratory techniques is crucial to the education of a forensic scientist. This class prepares students to further their science education at the university level, and introduces them to the possibilities of a science related career. Integrated throughout the course are career preparation standards which include basic academic skills, communication, interpersonal skills,  problem solving, workplace safety, technology and employment literacy.",
+        "term": "Year"
+    },
+    {
+        "name": "Medical Intervention Honors",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Human Body Systems",
+        "description": "Medical Interventions Honors course builds upon knowledge gained in the Human Body Systems and is a course where students delve into activities like designing a prosthetic arm as they follow a fictitious family and investigate how to prevent, diagnose and treat disease.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Biology",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth and Chemistry in the Earth System",
+        "description": "AP Biology generally includes topics regularly covered in a college biology course for science majors.  The two main goals of AP Biology are to help students develop a conceptual framework for modern biology and to help students gain an appreciation of science as a process.  The primary emphasis in the course is on developing deep understanding of biological concepts and unifying themes.  The course will promote scientific inquiry and apply biological knowledge to environmental and social concerns.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Chemistry",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Chemistry in the Earth System and Algebra 2/Pre−Calculus Honors",
+        "description": "This course is designed to be the equivalent of the general chemistry course taken during a student’s first years in college.  Successful students will attain a depth of understanding of fundamentals and a reasonable competence in dealing with chemical problems.  The course will contribute to the development of a student’s abilities to think clearly and to express ideas, orally and in writing, with clarity and logic.  The course emphasizes chemical calculations and the mathematical formulation of principles with the appropriate supportive labs provided for students.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Physics 1",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Chemistry in the Earth System and Algebra 2/Pre−Calculus Honors",
+        "description": "This course is the first of a two−year course sequence. AP Physics 1 is equivalent to the first semester of a typical introductory, algebra−based, college physics course. It covers Newtonian Mechanics, waves and basic electricity and circuits. Students will have time to gain a greater depth of conceptual understanding through the use of inquiry−based practice. Students will learn important science process skills such as explaining casual relationships, applying and justifying the use of mathematical routines, designing experiments, analyzing data, and making connections across multiple topics within the course.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Physics 2",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "AP Physics 1 or Physics",
+        "description": "This course is the second of a two−year course sequence. AP Physics 2 is equivalent to the second semester of a typical introductory, algebra−based, college physics course.  It covers electricity and magnetism, thermodynamics, fluids, and modern physics.  Students will have time to gain a greater depth of conceptual understanding through the use of inquiry−based practice.  Students will learn important science process skills such as explaining casual relationships, applying and justifying the use of mathematical routines, designing experiments, analyzing data, and making connections across multiple topics within the course.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Physics C: Mechanics",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "12",
+            "12"
+        ],
+        "previous_courses": "Physics and/or Chemistry in the Earth System and Algebra 2 Advanced",
+        "description": "AP Physics C: Mechanics is equivalent to a one−semester, calculus−based, college level physics course, especially appropriate for students planning to specialize or major in physical science or engineering. The course explores topics such as kinematics; Newton’s laws in motion; work, energy and power; systems of particles and linear momentum; circular motion and rotation; and oscillations and gravitation. Introductory differential and integral calculus is used throughout the course.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Environmental Science",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Algebra 1, The Living Earth and either Chemistry in the Earth System or Geology",
+        "description": "AP Environmental Science provides students with the scientific principles, concepts, and methodologies required to understand the interrelationships of the natural world, to identify and analyze environmental problems both natural and human−made, to evaluate the relative risks associated with these problems, and to examine alternative solutions for resolving and/or preventing them.  Environmental Science is interdisciplinary; it embraces a wide variety of topics from different areas of study.  If the school site offers this course as an ROP course, the student must be in 11th or 12th grade in order to enroll.",
+        "term": "Year"
+    },
+    {
+        "name": "World History, Culture & Geography",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10"
+        ],
+        "previous_courses": "None",
+        "description": "This course begins with a snapshot examination of global government systems in 1750. The course then covers a period of more than 250 years and highlights the intensification of a truly global history as people, products, knowledge, and ideas increasingly spread around the world. It examines dynamic forces such as democracy, nationalism, and economic competition and how these forces impacted the modern world. The course also considers the themes of war and conflict resolution, inclusiveness of governance, the concept of justice, and the growing importance of individual rights and liberties. The course ends with the continued evolution of a global society as shaped by globalization, terrorism, and technology. Throughout the course, students develop reading, writing, speaking, and listening skills to enhance their understanding of the content. Students engage with history as an investigative discipline, one that is continually reshaped based on inquiry, primary and secondary source research, and multiple new perspectives. Students will gain an appreciation of history and become more informed citizens in their community, country, and the world.",
+        "term": "Year"
+    },
+    {
+        "name": "US History & Geography",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11"
+        ],
+        "previous_courses": "None",
+        "description": "United States History and Geography is a survey course of late nineteenth through twenty−first century American history, starting with a brief review of democratic foundations and the impact of the Civil War. Students will analyze turning points and themes related to American identity, the role of the government, and the American experience. Skills such as critical reading, writing, speaking and listening, research, and media literacy will be emphasized. Aligning with the California History−Social Sciences Framework, students will engage with the content, practice inquiry skills, improve literacy, and develop values of citizenship through this ",
+        "term": "Year"
+    },
+    {
+        "name": "US Government",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "U.S. Government is a study of the institutions of American government.  The course focuses on the executive, judicial and legislative branches of the federal government, the election process, and political parties.  There is an emphasis on the concepts of constitutionalism, representative democracy, separation of powers, checks and balances, and federalism.  (Taken with one semester of Economics)",
+        "term": "Year"
+    },
+    {
+        "name": "Economics",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Economics is a study of the operations and institutions of economic systems.  Areas of study include supply and demand, inflation and recession, money and credit, the banking system, labor and wages, managing the nation’s economy, and economic theory. (Taken with one semester of U.S. Government)",
+        "term": "Semester"
+    },
+    {
+        "name": "Global Studies",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Global Studies introduces students to the world by investigating modern issues in different parts of the globe and investigating the broader scale of those issues.  Students will analyze the geographic, cultural, political, and historical aspects of the issues and apply them on a global scale.  The course includes studies on wealth and poverty, the environment, migration/immigration, global conflicts/terrorism, and media literacy as well as breaking news/breaking world events.  The course will encourage students to develop critical thinking skills through identifying long−term implications of both past and present events.  Students will be required to read, discuss, debate, analyze, work in groups, and think critically on a variety of topics.",
+        "term": "Semester"
+    },
+    {
+        "name": "Introduction to Psychology",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Psychology is the study of the behavior and thought of humans and other animals.  Although it has been a topic of intellectual conjecture for centuries, psychology as a standard academic discipline is less than 150 years old.  In that time it has branched off in many areas of specialization that address such issues as the development of children, the motivation of athletes, the best way to treat substance abuse, how people form memories, etc.  This course is an introduction to the basic subfields within psychology.  We will be researching famous psychologists, investigating contemporary examples of psychological phenomena, discussing experiences, and forming hypotheses about how and why people and animals think and behave.",
+        "term": "Semester"
+    },
+    {
+        "name": "Contemporary Issues & Public Policy",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This course encourages critical thought on contemporary issues and is divided into the following areas: Life and Health Issues, Discrimination Issues, Constitutional Issues, Global Issues, Cultural Issues and Frameworks, Public Speaking and Persuasive Writing Skills, and Connections, Conflicts, and Meaningful Solutions. Each area of study includes a film that relates to the general issue.   It will provide students an opportunity to identify and evaluate political, cultural, and economic issues on a local, state, national, and international level.  A variety of current news media are used to help students learn how contemporary social issues affect them and an emphasis is placed on their role as constructive citizens in an interdependent world.",
+        "term": "Semester"
+    },
+    {
+        "name": "Law and Society",
+        "schools": [
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Law and Society will involve students actively in conflict resolution through traditional legal models as well as alternative models of problem solving.  Content will include the scope of traditional American law (criminal, tort, consumer, family, housing, and individual rights) as well as concepts and comparisons using international legal situations.  Global law will be stressed.  Problem−centered curriculum, rather than a content−centered base, will promote critical analytical thinking.  Mock trials, simulations, and role−playing will be dominant modes of interaction.  Socratic dialogue will engage the student actively in the classroom.",
+        "term": "Year"
+    },
+    {
+        "name": "Psychology",
+        "schools": [
+            "Acalanes",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This course is an introductory study of the psychological domains: research methods, bio−psychological, cognitive, developmental, and social.  It is research oriented in approach, introducing students to the systematic study of behavioral and mental processes.Campolindo: Grades 10−12, Las Lomas: Grades 11, 12",
+        "term": "Year"
+    },
+    {
+        "name": "AP World History: Modern",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "World History, Culture & Geography",
+        "description": "AP World History: Modern course focuses on significant events, individuals, developments, and processes from 1200 to the present. Students develop and use the same skills, practices, and methods employed by historians: analyzing primary and secondary sources; developing historical arguments; making historical connections; and utilizing reasoning about comparison, causation, and continuity and change over time. The course provides six themes that students explore throughout the course in order to make connections among historical developments in different times and places: humans and the environment, cultural developments and interactions, governance, economic systems, social interactions and organization, and technology and innovation.",
+        "term": "Year"
+    },
+    {
+        "name": "AP US History",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11"
+        ],
+        "previous_courses": "World History",
+        "description": "AP U.S. History is designed to provide students with the analytical skills and factual knowledge necessary to deal critically with the problems and materials in a college−level United States history course.  Students will learn to assess historical materials including their relevance to a given interpretive problem, their reliability, and their importance, as well as to weigh the evidence and interpretations presented in historical scholarship.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Government & Politics Comparative",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This course introduces students to fundamental concepts used by political scientists to study the processes and the outcomes of politics in a variety of country settings.  AP Comparative Government and Politics aims to illustrate the rich diversity of political life, to show available institutional alternatives, to explain differences in processes and policy outcomes, and to communicate to students the importance of global political and economic changes.  (Taken with one semester of Economics)",
+        "term": "Year"
+    },
+    {
+        "name": "AP US Government & Politics",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This course provides an analytical perspective on government and politics in the United States.  AP US Government and Politics involves both the study of general concepts used to interpret U.S. politics and the analysis of specific case studies.  It also requires familiarity with the various institutions, groups, beliefs, and ideas that constitute U.S. political reality. (Taken with one semester of Economics)",
+        "term": "Semester"
+    },
+    {
+        "name": "AP European History",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "World History",
+        "description": "This course which studies European history since 1450 introduces students to cultural, economic, political, and social developments that played a fundamental role in shaping the world in which they live.  The goals of European History are to develop an understanding of some of the principal themes in modern European History, an ability to analyze historical evidence and historical interpretation, and an ability to express historical understanding in writing.",
+        "term": "Semester"
+    },
+    {
+        "name": "AP Human Geography",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "World History and Geography",
+        "description": "Human Geography is the systematic study of patterns and processes that have shaped human understanding, use and alteration of Earth’s environments.  Students employ spatial concepts and landscape analysis to analyze human and social organization and its environmental consequences.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Human Geography",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "World History and Geography",
+        "description": "Human Geography is the systematic study of patterns and processes that have shaped human understanding, use and alteration of Earth’s environments.  Students employ spatial concepts and landscape analysis to analyze human and social organization and its environmental consequences.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Psychology",
+        "schools": [
+            "Campolindo",
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This course introduces students to the systematic and scientific study of the behavior and mental processes of human beings and other animals.  Included is a consideration of the psychological facts, principles, and phenomena associated with each of the major subfields within psychology.  Students also learn about the ethics and methods  psychologists use in their science and practice.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Macroeconomics",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "AP Macroeconomics provides an introductory, college−level presentation of the principles of economics that apply to an economic system as a whole.  A particular emphasis is placed on the study of national income and price−level determination, economic performance measures, the financial sector, stabilization policies, economic growth and international economics.",
+        "term": "Year"
+    },
+    {
+        "name": "Art 1",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Art 1 is a skills−based course in which students develop artistic perception, learn art history/cultural context and develop aesthetic valuing skills through drawing, painting and printmaking.  Students create original artworks, using new and traditional media and techniques, as well as keeping a sketchbook/journal, doing outside gallery visits and reviews, and oral and written critiques of student, historical and contemporary artists.  Students also are required to maintain portfolios of all their projects/assignments.",
+        "term": "Year"
+    },
+    {
+        "name": "Art 2",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Art 1",
+        "description": "Art 2 emphasizes visual problem solving and personal expression through which students continue to develop skills and knowledge of artistic perception, art history/cultural context and aesthetic valuing skills.  Students continue to develop their drawing, painting, and printmaking skills.   Students create original artworks, using new and traditional media and techniques, as well as keeping a sketchbook/journal, doing outside gallery visits and reviews, and oral and written critiques of student, historical and contemporary artists.  Students also are required to maintain portfolios of all their projects/assignments.",
+        "term": "Year"
+    },
+    {
+        "name": "Advanced Art",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Art 2",
+        "description": "Advanced Art students work at an advanced skill level in a variety of two−dimensional and three−dimensional media.  Creative experimentation with media and subject matter is encouraged.  Special talents and interest in the arts and art−related fields are addressed.  Students participate in the exhibition of their work.",
+        "term": "Year"
+    },
+    {
+        "name": "Advanced Art Honors",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Art 2",
+        "description": "Advanced Art students work at an advanced skill level in a variety of two−dimensional and three−dimensional media.  Creative experimentation with media and subject matter is encouraged.  Special talents and interest in the arts and art−related fields are addressed.  Students participate in the exhibition of their work.  Students who enroll in the Honors option will engage in advanced analysis and critiques of art and artists, prepare written reports and develop a personal portfolio.",
+        "term": "Year"
+    },
+    {
+        "name": "Independent Art Portfolio",
+        "schools": [
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Advanced Art or Advanced Art, Honors",
+        "description": "Advanced Art or Advanced Art, HonorsStudents work at an advanced skill level in producing an independent portfolio of two−dimensional and/or three−dimensional works.  Students choose an artistic concern/theme to serve as the focus of their work.  Students are required to collaborate with the teacher to do outside gallery visits and reviews, as well as oral and written critiques of historical and contemporary artists.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Studio Art",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Advanced Art",
+        "description": "This course is designed to encourage creative and systematic investigation of formal and conceptual issues, while placing an emphasis on making art as an ongoing process that involve the student in informed and critical decision making.  AP Studio Art helps students develop technical skills and familiarize them with the functions of the visual elements.  Students are encouraged to become independent thinkers who will contribute inventively and critically to their culture through the making of art.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Art History",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Advanced Placement (AP) Art History will provide an opportunity for students to investigate world art (painting and sculpture) and architecture. This course will appeal to students with an interest in both history and the visual arts. Students will examine and critically analyze major forms of artistic expression within a historical context from both the past and the present. AP Art History emphasizes understanding works of art within their historical contexts by focusing on issues such as politics, class, religion, patronage, audience, gender, function, and ethnicity.",
+        "term": "Year"
+    },
+    {
+        "name": "3D ART 1",
+        "schools": [
+            "Acalanes",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Students are introduced and given opportunities to create art forms in a wide variety of three−dimensional art media including wood, metal, plaster, clay, fibers and mixed media while learning safety procedures and technical skills necessary for working with these materials. Students practice translating two−dimensional design into a three−dimensional artwork. Students will explore various artists within the three dimensional ",
+        "term": "Year"
+    },
+    {
+        "name": "3D ART 2",
+        "schools": [
+            "Acalanes",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "3D Art 1",
+        "description": "Students in 3−D Art 2 will participate in the next series of sequential learning experiences building upon skills/and techniques experienced in 3D Art 1.  Media include wood, metal, plaster, clay, fibers and mixed media.  An emphasis of the course is on developing a conceptual approach to studio practice, including further developing analytical and critical thinking skills, exploring art historical precedents, and effective communication skills.  Additionally, second−year students will begin a concentration in a material or process of their choice.",
+        "term": "Year"
+    },
+    {
+        "name": "3D ART 3",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "3D Art 2",
+        "description": "3D Art 3 students participate in the design and creation of original works of 3−D art with a concentration in materials or processes of their choice.  Students will plan, implement and produce a significant portfolio of their own work. Students also will continue to explore in greater depth the works of specific artists, movements or cultural styles while further developing critical thinking and communication skills.   Students will curate a show of their own work and/or others' work.",
+        "term": "Year"
+    },
+    {
+        "name": "3D ART 4 ",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "3−D Art 3",
+        "description": "3−D Art 4 students participate in the design and creation of original works of 3−D art with a concentration in materials or processes of their choice.  Students will plan, implement and produce a significant portfolio of their own work. Students also will continue to explore in greater depth the works of specific artists, movements or cultural styles while further developing critical thinking and communication skills.   Students will curate a show of their own work and/or others' work.",
+        "term": "Year"
+    },
+    {
+        "name": "World Art",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "World Art offers students a dynamic, informative, meaningful and fun, semester art production course. World Art offers non−art oriented students the opportunity to explore their creativity in a less technically focused or skills based art course. This course is a unique blend of global studies and art production.",
+        "term": "Year"
+    },
+    {
+        "name": "Photo/Digital Design",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Photography/Digital Design is a college−preparatory, interdisciplinary approach to visual arts and the humanities.  The class enables students to achieve an understanding and appreciation of artistic expression and to write and discuss with discrimination about photography as applied to themes in the humanities and history. Course work will emphasize student−created photographic art works as well as analytical reading, writing, and critiques. Substantial outside reading and research on individual biographies of historic and contemporary photographers, as well as written reviews of works of photographers, will be required.  Students will analyze photographic works through discussion or writing using the appropriate vocabulary for describing techniques and aesthetic qualities.",
+        "term": "Semester"
+    },
+    {
+        "name": "Digital Photography Advanced",
+        "schools": [
+            "Acalanes",
+            "Campolindo"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Photography/Digital Design",
+        "description": "In this second−level photography course students will achieve the five major Standards of the California Arts curriculum at an expert or more proficient level.  The course will provide students with opportunities to extend and advance their knowledge and skills in the field of photography.  This course will familiarize the student with advanced photographic equipment, materials, methods and the digital processes.  Also, students will focus on the history of photography and photographers studying and emulating a variety of photographic styles.  This course may be offered as an ROP course.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Studio Art: 2D Photo",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Digital Photography Advanced",
+        "description": "This course is designed to develop student mastery in the concept, composition and execution of their two−dimensional works in photography and 2−D design.  Students will have the opportunity to produce a two−dimensional portfolio fulfilling the requirements as set by The College Board for Studio Art AP.  The portfolio has specific requirements which include:  Section I−−Quality, excellence demonstrated in original art works; Section II−−Concentration, an in−depth, personal commitment to a particular artistic concern; Section III−−Breadth shows a variety of experiences in using the formal, technical and expressive means available to an artist.",
+        "term": "Year"
+    },
+    {
+        "name": "Digital Design 1",
+        "schools": [],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Digital Design 1 students study traditional art and design principles while using new media (computers, digital cameras, scanners, etc.) to produce their own original design projects.  In this hands−on studio class, students learn to use the computer as a tool to draw illustrations, manipulate graphics, and create a broad range of design projects.",
+        "term": "Year"
+    },
+    {
+        "name": "Digital Design 2",
+        "schools": [
+            "Acalanes",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Digital Design 1",
+        "description": "Students in this second−level digital design course demonstrate an advanced understanding and appreciation of artistic expression to produce digital design projects. Using professional grade software, students use design principles, typography, and desktop publishing, as well as advanced skills and techniques to visually communicate meaning and imagination. This course may be offered as an ROP course.",
+        "term": "Year"
+    },
+    {
+        "name": "Video Production 1",
+        "schools": [
+            "Acalanes",
+            "Campolindo"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Video Production 1 is a college−preparatory, interdisciplinary approach to the visual arts. This course builds on student's proficiency in photography, creative writing, and design concepts. The class integrates research and writing techniques with artistic creation and expression as outlined in the California Visual and Performing Arts Framework.  Students achieve an advanced understanding and appreciation of video used as a tool in artistic expression. Students integrate, create and communicate artistic design using video production techniques.",
+        "term": "Year"
+    },
+    {
+        "name": "Video Production 2",
+        "schools": [
+            "Acalanes",
+            "Campolindo"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Video Production 1",
+        "description": "Video Production 2 is organized around the five major standards of the California arts curriculum.  Students will study and research film genres in order to understand the complexity of video art and its role in film history.  As each standard is introduced, students will apply and practice the principles learned in that standard through a major course project. Each project will require the application of sophisticated videography techniques as outlined in the arts standards. The course projects will be included in the student’s cumulative portfolio.",
+        "term": "Year"
+    },
+    {
+        "name": "Video Production 3",
+        "schools": [
+            "Acalanes",
+            "Campolindo"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Video Production 2",
+        "description": "Video Production 3 is an advanced video studies course that will draw upon the advanced video editing techniques learned in Video Production 1 and 2 while investigating new areas uncovered in the lower levels. Students will analyze the power of advertising by researching advertising techniques, target audiences and a variety of ads, learning to identify specific advertising techniques. They will examine the personal vision and belief systems of directors, specifically how a director incorporates political and religious beliefs into a film narrative. Also, students will analyze the changing treatment of race and gender in film and television through the years, reflecting upon how their depiction reflects the attitudes of society; study specific video techniques, such as set lighting, acting methods for the camera, differing video editing styles of diverse directors, and manipulation of more difficult software, including Garage Band, Adobe Go Live, Final Cut Pro, MPEG Streamclip, Adobe Image Ready, and Audacity.",
+        "term": "Year"
+    },
+    {
+        "name": "Drama 1",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Drama 1 offers the new and continuing theatre student the opportunity to gain experience in dramatic arts through acting, technical theatre, and an exploration of theatre within an historical and cultural context.  The student will develop skills in creative self−expression using a variety of methods.  The student also will evaluate the informal and formal works of their own and others through both discussion and writing. The course provides an opportunity to develop competence in problemsolving, communication skills, self−confidence, and self−discipline contributing to life−long learning and career skills.",
+        "term": "Year"
+    },
+    {
+        "name": "Drama 2",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Drama 1",
+        "description": "Drama 2 offers the continuing theatre student the opportunity to gain additional experience in dramatic arts through acting, technical theatre, and an exploration of theatre within an historical and cultural context.  As a participant in a collaborative process, the student will continue to develop skills in creative self−expression using a variety of methods.  The student also will evaluate the informal and formal work of their own and others through discussion and writing. The course provides an opportunity to further develop skills in problem solving, communication, self−confidence, and self−discipline contributing to life−long learning and career opportunities.",
+        "term": "Year"
+    },
+    {
+        "name": "Drama−Advanced",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Drama 2",
+        "description": "Advanced Drama offers the advanced theatre student the opportunity to gain additional experience in dramatic arts through acting, technical theatre, and an exploration of theatre within an historical and cultural context.  As a participant in a collaborative process, the student will continue to develop skills in creative self−expression using a variety of methods at the advanced level.  The student will also evaluate the informal and formal work of their own and others through both discussion and writing. The course provides an opportunity to develop competence in problem−solving, communication skills, self−confidence, and self−discipline contributing to life−long learning and career skills.",
+        "term": "Year"
+    },
+    {
+        "name": "Stagecraft",
+        "schools": [
+            "Acalanes",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Drama 1",
+        "description": "This year of study is devoted to developing a firm foundation in technical theatre. We will be studying all technical aspects of the production process. Units of study will include dramaturgy, design, set construction, props, lighting, sound, costume and make−up, and theater management. Students must pass an OSHA theater safety test in the first weeks of the course before operating equipment.  Because of the nature of technical theatre this class requires 35 hours, minimum, after−school work per semester.",
+        "term": "Year"
+    },
+    {
+        "name": "Oral Interpretation",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Oral Interpretation is the art of reading, researching, analyzing, interpreting, and performing through the use of voice and body.  This course will offer students opportunities to interpret published works as well as to study rhetoric to create and enhance their own works for performance.  Students also will be critically assessing and analyzing oral interpretations by professional performers and speakers.  The course offers students an opportunity to perform outside the classroom at community and school−sponsored events.  This course teaches life−time skills in a performance−based setting.",
+        "term": "Year"
+    },
+    {
+        "name": "2Choral Performance 1 (Chorale, Mixed Chorus)",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Choral Performance 1 is a beginning to intermediate choral group which performs many times throughout the year.  Music of many styles, from renaissance through contemporary will be performed.  In addition, basic training in music reading, vocal and breathing techniques, and music appreciation will be included.  As an introductory choir, no previous experience is required.",
+        "term": "Year"
+    },
+    {
+        "name": "Choral Performance 2 (M/W Ensemble)",
+        "schools": [
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Choral Performance 1",
+        "description": "Choral Performance 2 is a beginning to intermediate vocal music course.  Students will further develop their knowledge of music fundamentals, vocal technique, sight−reading, and historical and cultural perspectives of choral music.  Members will perform a variety of repertoire from different historic periods and cultures from two, three, and four−part selections for voices.",
+        "term": "Year"
+    },
+    {
+        "name": "Choral Performance 2 (M/W Ensemble)",
+        "schools": [
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Choral Performance 1",
+        "description": "Choral Performance 2 is a beginning to intermediate vocal music course.  Students will further develop their knowledge of music fundamentals, vocal technique, sight−reading, and historical and cultural perspectives of choral music.  Members will perform a variety of repertoire from different historic periods and cultures from two, three, and four−part selections for voices.",
+        "term": "Year"
+    },
+    {
+        "name": "Choral Performance 3 (Concert Choir)",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Choral Performance 2",
+        "description": "Choral Performance 3 is an intermediate vocal music course.  Students will expand their mastery of music fundamentals, vocal technique, sight−reading, and historical/cultural perspectives of choral music.  Members will perform four−part mixed voiced music from a variety of genres.",
+        "term": "Year"
+    },
+    {
+        "name": "Choral Performance 4 (Chamber Singers)",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Choral Performance 3, audition required",
+        "description": "Choral Performance 4 is an advanced ensemble.  Students will show understanding and mastery of music theory, sight−reading, and appropriate performance styles.  Members will perform advanced literature from the repertoire of choral music and have many opportunities for performing in school and in the community.  Students will be expected to undertake leadership and administrative roles.",
+        "term": "Year"
+    },
+    {
+        "name": "Musical Theater Workshop",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Musical Theatre Workshop is an exploration of American Musical Theatre. Students will study the work of the actor/singer/dancer and use their gained knowledge to develop as performers. Students will prepare and present as soloists as well as members of small groups and larger ensembles. Since this is a workshop course, students will prepare material for class presentation and write critiques. There will also be a focus on the audition process as well as musical theatre history and repertoire.",
+        "term": "Year"
+    },
+    {
+        "name": "Concert Band",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Audition",
+        "description": "Concert Band is open to all students. There will be continued development of instrumental techniques and ensemble skills through the study of outstanding repertoire for Concert Band.  The preparation process is the important component of the program, in that the performance of each student in the instrumental class is critically important to, and affects the performance of, every other student in the class.",
+        "term": "Year"
+    },
+    {
+        "name": "Jazz Ensemble",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Audition",
+        "description": "Jazz Ensemble is a selective and specialized course designed to offer the qualified instrumentalist the opportunity to study and perform a variety of jazz styles.  Emphasis is on learning improvisation as well as advanced music reading.  This group is involved in several performances throughout the community.  The preparation process is the important component of the program, in that the performance of each student in the instrumental class is critically important to, and affects the performance of, every other student in the class.",
+        "term": "Year"
+    },
+    {
+        "name": "Orchestra",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Orchestra offers the opportunity for string players to study and perform music of many styles and musical periods, develop techniques, and participate in a variety of group and ensemble experiences.  The preparation process is the important component of the program, in that the performance of each student in the instrumental class is critically important to, and affects the performance of, every other student in the class.",
+        "term": "Year"
+    },
+    {
+        "name": "Symphonic Band",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Symphonic Band performances introduce the more qualified instrumentalist to advanced and challenging band literature of several styles and musical periods.  The band performs for several school and community activities throughout the year and offers a wide range of musical and social activities.  The preparation process is the important component of the program, in that the performance of each student in the instrumental class is critically important to, and affects the performance of, every other student in the class.  Students must have prior experience on a woodwind, brass or percussion instrument.",
+        "term": "Year"
+    },
+    {
+        "name": "Wind Ensemble",
+        "schools": [
+            "Acalanes",
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Audition",
+        "description": "Wind Ensemble is an advanced performance group with specific instrumentation that includes woodwinds, brass, and percussion instruments.  Emphasis is on sound performance fundamentals including embouchure, seating position, breathing and sight reading.  This class concentrates on musical development and the development of leadership skills.  Students perform as individuals, as members of small ensembles, and as members of the large ensemble.  They study advanced instrumental techniques, performing practices and style and form as it relates to various idioms of selected advanced literature.  Performance requirements include concerts, music festivals, some football games, and community events.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Music Theory",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This course is designed to develop a student’s ability to recognize, understand, and describe the basic materials and processes of music that are heard or presented in a score.  Foundational skills are achieved by addressing fundamental aural, analytical, and compositional skills using both listening and written exercises.  These skills lead to creative tasks, such as the harmonization of a melody by selecting appropriate chords. This course may be offered as an ROP course.",
+        "term": "Year"
+    },
+    {
+        "name": "French 1",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This introductory course in foreign language provides students who have no prior training in the language an opportunity to develop basic listening, speaking, writing, and reading skills.  In addition to functional language skills, students are provided an introduction to the culture of countries whose language they are studying.",
+        "term": "Year"
+    },
+    {
+        "name": "French 2",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "French 1",
+        "description": "This second−year language course enables students to develop intermediate proficiency in the language skills of listening, speaking, writing, and reading.  Students also develop an increasing awareness of the idiomatic aspects of language, and continue to study the culture of countries using the language.",
+        "term": "Year"
+    },
+    {
+        "name": "French 3",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "French 2 or equivalent experience",
+        "description": "The third−year French language course enables students to develop high−intermediate proficiency in language skills of listening, speaking, writing and reading.  Students will develop an increasing awareness of the idiomatic aspects of language, begin to study the literature and continue to study the culture of countries using the language.",
+        "term": "Year"
+    },
+    {
+        "name": "French 4 Honors",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "French 3 or equivalent experience",
+        "description": "The fourth−year French course enables students to develop advanced proficiency in the language skills of listening, speaking, writing, and reading.  Students will use idiomatic aspects of language, and continue to study the literature and the culture of countries using the language.",
+        "term": "Year"
+    },
+    {
+        "name": "AP French Language & Culture",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "French 4",
+        "description": "Students who enroll in AP French Language & Culture should have a solid command of French grammar and vocabulary and have competence in listening, reading, speaking, and writing.  This course emphasizes the use of language for active communication and helps students develop the ability to understand spoken French in various contexts, master an ample vocabulary while non−reliant on a dictionary, and demonstrate coherent expression in written and spoken French.",
+        "term": "Year"
+    },
+    {
+        "name": "German 1",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This introductory course in foreign language provides students who have no prior training in the language an opportunity to develop listening, speaking, writing, and reading fundamentals.  In addition to functional language skills, students are given an introduction to the culture of countries whose language they are studying.",
+        "term": "Year"
+    },
+    {
+        "name": "German 2",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "German 1",
+        "description": "This second−year language course enables students to develop intermediate proficiency in the language skills of listening, speaking, writing, and reading.  Students also develop an increasing awareness of the idiomatic aspects of language, and continue to study the culture of countries using the language.",
+        "term": "Year"
+    },
+    {
+        "name": "German 3",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "German 2 or equivalent experience",
+        "description": "The third−year language course enables students to  develop high−intermediate proficiency in the language skills of  listening,  speaking, writing and reading.  Students will develop an increasing awareness of the idiomatic aspects of language, begin to study the literature and continue to study the culture of countries using the language.",
+        "term": "Year"
+    },
+    {
+        "name": "German 4 Honors",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "German 3 or equivalent experience",
+        "description": "This fourth−year language course enables students to develop advanced proficiency in the language skills of listening, speaking, writing, and reading.  Students will use idiomatic aspects of language, and continue to study the culture and literature of countries using German.",
+        "term": "Year"
+    },
+    {
+        "name": "AP German Language",
+        "schools": [
+            "Campolindo"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "German 4 Honors or equivalent experience",
+        "description": "This fifth−year German language course enables students to develop advanced proficiency in the language skills of listening, speaking, writing, and reading.  Students will use idiomatic aspects of language, and continue to study the culture and literature of German−speaking people.  Students will prepare for the advanced placement examination.",
+        "term": "Year"
+    },
+    {
+        "name": "Japanese 1",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This introductory course in foreign language provides students, who have no prior training in the language, an opportunity to develop basic listening, speaking, writing, and reading skills.  In addition to functional language skills, students are provided an introduction to the culture of countries whose language they are studying.",
+        "term": "Year"
+    },
+    {
+        "name": "Japanese 2",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Japanese 1",
+        "description": "This second−year language course enables students to develop intermediate proficiency in the language skills of listening, speaking, writing, and reading.  Students also develop an increasing awareness of the idiomatic aspects of language, and continue to study the culture of countries using the language.",
+        "term": "Year"
+    },
+    {
+        "name": "Japanese 3",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Japanese 2 or equivalent experience",
+        "description": "This third−year Japanese language course enables students to develop advanced proficiency in the language skills of listening, speaking, writing, and reading. Students will use idiomatic aspects of language, and continue to study the culture and literature of Japan using the language.",
+        "term": "Year"
+    },
+    {
+        "name": "Japanese 4 Honors",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Japanese 3 or equivalent experience",
+        "description": "This fourth−year Japanese language course enables students to develop advanced proficiency in the language skills of listening, speaking, writing, and reading. Students will use idiomatic aspects of language, and continue to study the culture and literature of Japan using the language.",
+        "term": "Year"
+    },
+    {
+        "name": "Latin 1",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Latin 1 is an introductory course in which students begin the study of the Latin language, Roman culture, Roman mythology, and the Latin roots of modern European languages.",
+        "term": "Year"
+    },
+    {
+        "name": "Latin 2",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Latin 1",
+        "description": "Latin 2 is an intermediate course in which students develop intermediate level knowledge of Latin language, Roman culture, Roman mythology, and the modern European languages.",
+        "term": "Year"
+    },
+    {
+        "name": "Latin 3 Honors",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Latin 2",
+        "description": "This third year Latin language course enables students to develop advanced proficiency in the Latin Language, an increasing awareness of language, and to become familiar with Ancient Mediterranean culture and how it impacts the modern world. In this course students read authentic unadapted texts of Cicero, Sallust, Caesar, and other authors of the Golden Age of ancient Roman Literature. They will also study and review all aspects of Latin grammar and syntax while working on Latin prose composition.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Latin Vergil",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Latin 3",
+        "description": "This course provides students with the skills needed to write a literal English translation of Latin passages, explain the use of words in appropriate context, identify and analyze characteristic or noteworthy features of an author’s mode of expression, and demonstrate an awareness of the features used in the construction of a poem or an argument.  Students learn to read at sight and translate literally to insure accuracy and coherence.",
+        "term": "Year"
+    },
+    {
+        "name": "Latin 5",
+        "schools": [
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "AP Latin Vergil or equivalent experience",
+        "description": "This is a high school Latin 5 course that enables students to further develop an advanced proficiency in their Latin language skills while reading the writings of Ovid, Livy, Catullus and other authors of the Golden Age of ancient Roman Literature. Students will focus on advanced Latin prose composition while studying the style, diction and ideas of the ancient authors. Students will also deepen their knowledge of Latin grammar and syntax.",
+        "term": "Year"
+    },
+    {
+        "name": "Mandarin 1",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Mandarin 1 will introduce students to the language of Mandarin (listening, speaking, reading, and writing) and the Chinese culture, and give a basis for continued studies.  By the end of the course, students will learn how to have short conversations in Mandarin; have a basic understanding of the components of Chinese characters; broaden their understanding of the Chinese culture; and introduce them in the use of a dictionary.",
+        "term": "Year"
+    },
+    {
+        "name": "Mandarin 2",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Mandarin 1 or equivalent experience",
+        "description": "Mandarin 2 will broaden students' ability in the language of Mandarin (listening, speaking, reading and writing) and the understanding of the Chinese culture.  It will enable them to read longer paragraphs and carry on extended conversations.  By the end of the course, students will learn how to have extended conversations in Mandarin; further expand their knowledge of Chinese characters; and further expand their understanding of the Chinese culture.",
+        "term": "Year"
+    },
+    {
+        "name": "Mandarin 3",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Mandarin 2 or equivalent experience",
+        "description": "This third year Mandarin course enables students to increase their proficiency in the four skills of listening, speaking, reading and writing.  They will further expand their understanding of the Chinese culture, extend their skills in grammar, and be encouraged to increase their communicative interaction with native speakers.  The course objectives include the following: (1) Speaking and listening: Performing all classroom activities entirely in Mandarin. (2)  Reading: students are able to read short stories and anecdotes and getting the general idea of the meaning. Students will memorize approximately 225 more Chinese characters. (3) Writing: students write long paragraphs in a daily journal and write short essays on a given topic. Students will use more discourse markers in their written and spoken discourse. (4)  Cultural activities are arranged to provide each student with opportunities to enhance language and cultural learning.  Students will study the Chinese culture, including religion, music, performing art, food, jade, medicine, medical care, etc.",
+        "term": "Year"
+    },
+    {
+        "name": "Mandarin 4 Honors",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Mandarin 3 or equivalent experience",
+        "description": "The fourth year Mandarin course enables students to broaden their ability in the language of Mandarin through listening, speaking, reading and writing and appreciation of the Chinese culture.  The course objectives include speaking and listening, reading.  Students will memorize approximately 350 Chinese characters.  Students will analyze commonalities and differences between Chinese and American culture through dialogue and writing.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Chinese Language & Culture",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Mandarin 4 Honors or equivalent experience",
+        "description": "This fifth year Mandarin course is designed to deepen students’ immersion into the language and culture of the Chinese−speaking world.  Students will develop a broad range of language skills within a cultural frame of reference.  The course focuses on language proficiency through listening, speaking, reading and writing while interweaving cultural content.",
+        "term": "Year"
+    },
+    {
+        "name": "Spanish 1",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "This first−year Spanish language course enables students to develop novice proficiency in the four overarching goals of listening, speaking, writing, and reading. Students also develop an increasing awareness of the idiomatic aspects of language, and student the culture of countries using the language.",
+        "term": "Year"
+    },
+    {
+        "name": "Spanish 2",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Spanish 1",
+        "description": "This second−year language course enables students to develop intermediate proficiency in the four overarching goals of listening, speaking, writing, and reading in Spanish. Students also develop an increasing awareness of the idiomatic aspects of the language, continue practicing the present tense, learn past tenses, and continue studying the culture of Spanish−speaking countries.",
+        "term": "Year"
+    },
+    {
+        "name": "Spanish 3",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Spanish 2",
+        "description": "This third−year language course enables students to develop intermediate proficiency in the four overarching goals of listening, speaking, writing, and reading. Students also develop an increasing awareness of the idiomatic aspects of language, continue practicing the present and past tenses, learn the present subjunctive tense, and continue studying the culture of Spanish−speaking countries.",
+        "term": "Year"
+    },
+    {
+        "name": "Spanish for Heritage Speakers",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Spanish for Heritage Speakers is a course for students who have Spanish speaking or bilingual background. During this course students will refine their listening and oral skills as they develop their formal reading and writing abilities in Spanish to expand the grammatical structures, orthography, accents and vocabulary beyond their region of origin. This course exposes students to Hispanic culture via high interest and culturally−relevant thematic units and will utilize authentic resources (videos, audio, articles, art, music, literature, etc) from Spanish and Latin American authors in order to gain and appreciation for the cultural perspectives associated with the cultural products and practices of the Spanish−speaking world.",
+        "term": "Year"
+    },
+    {
+        "name": "Spanish 4 Honors",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Spanish 3",
+        "description": "This fourth−year Spanish language course enables students to progress from intermediate to advanced proficiency in the four overarching goals of listening, speaking, writing, and reading. Students will use idiomatic aspects of language,  finish learning all structures, and continue studying the culture and literature of all Spanish−speaking countries.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Spanish Language & Culture",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Spanish 4 Honors or equivalent experience",
+        "description": "While emphasizing the use of Spanish for active communication, this course encompasses aural/oral skills, reading comprehension, grammar, and composition.  This course is designed to develop comprehension and expression of formal and informal spoken Spanish in an accurate and fluent fashion.  Vocabulary development and the composition of expository passages are highlighted.",
+        "term": "Year"
+    },
+    {
+        "name": "Advanced Publications",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Publications",
+        "description": "This re−designated course will give students who repeat the Publications course for credit a chance to develop and grow their skills as leaders and editors for the course. It provides a designation for those students who serve as Editors for the course by acknowledging the increased responsibility and broad−range of skills needed by experienced students to successfully run a Publications course.",
+        "term": "Year"
+    },
+    {
+        "name": "Human & Social Development",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10"
+        ],
+        "previous_courses": "None",
+        "description": "Human & Social Development is a foundational course that provides essential knowledge and skills to enable students to arrive at informed and healthy decisions in a complex and diverse world. This course emphasizes the following topics: identity, relationships, physical and mental wellness, substance use and abuse, and sexuality. The course also addresses some of the California Health Standards that include evaluation of valid health information, goal setting, analyzing perspectives and influences, and informed decision−making.Human and Social Development course is required for graduation.",
+        "term": "Year"
+    },
+    {
+        "name": "Introduction to Ethnic Studies",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Introduction to Ethnic Students course will examine the perspectives and experiences of the ethnic, racial and cultural groups in the United States and their struggles for equality and justice. Students will study the meaning of race, nationality, ethnicity and culture in American society and the roles of stereotypes, racism and prejudice. Students will gain an understanding of themselves and others through classroom activities, discussions, guest speakers, debates, research projects and personal reflection. This class is designed to build understanding, communication and cultural bridges and to strengthen our multicultural and multiethnic school and society.",
+        "term": "Semester"
+    },
+    {
+        "name": "Leadership",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "The Leadership class is designed to engage students in shaping a positive campus environment and culture, and to develop students’ sense of social and civic responsibility.  Students will develop leadership and management skills including:  organization, goal setting, communication, problem solving, and decision making.  Students will use these skills to plan and implement student activities on the school campus.",
+        "term": "Semester"
+    },
+    {
+        "name": "Peer Tutoring",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Peer tutors work in classes, study hall  and/or peer−tutor centers to help students with work in various academic subjects.  Peer tutors should have strong skills in reading, writing, science, world languages or mathematics and should be genuinely interested in helping others to become successful students.",
+        "term": "Year"
+    },
+    {
+        "name": "Publications (formerly Yearbook)",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Students participate in all phases of planning and designing the school yearbook, including: overall design, artwork, photography, copy writing, layout, organizing and writing.  Important aspects of the course include meeting strict deadlines, working with a clear set of priorities, aesthetic judgment, cooperation with other students and community representatives and practicing effective leadership.",
+        "term": "Year"
+    },
+    {
+        "name": "Sports Medicine − ROP",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth",
+        "description": "Sports Medicine is designed to explore human anatomy and physiology, and lays the foundation for further study of these sciences.  Students learn how systems of the body function and interact through physical activity, and develop a thorough understanding of the structure and function of the musculoskeletal system.  This knowledge serves as a platform for understanding the physiological response to injury and improving performance.  Integrated throughout the course are career preparation standards, which include basic academic skills, communication, interpersonal skills, problem solving, safety technology and employment literacy.",
+        "term": "Year"
+    },
+    {
+        "name": "Sports Medicine Adv.− ROP",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "Sports Medicine",
+        "description": "Sports Medicine is designed to explore human anatomy and physiology, and lays the foundation for further study of these sciences.  Students learn how systems of the body function and interact through physical activity, and develop a thorough understanding of the structure and function of the musculoskeletal system.  This knowledge serves as a platform for understanding the physiological response to injury and improving performance.  Advance level students may be eligible for an after−school sports medicine practicum with the school's athletic teams.  Integrated throughout the course are career preparation standards, which include basic academic skills, communication, interpersonal skills, problem solving, safety technology and employment literacy.",
+        "term": "Year"
+    },
+    {
+        "name": "Staff Assistant",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Staff approval",
+        "description": "Staff Assistant provides students the opportunity to develop communication skills, employability skills, and behaviors essential for employment, with emphasis on careers in education.   Students must have the ability to work with others and independently.  Staff assistants work under the direction and supervision of the assigned classroom teacher, office administrator or librarian. Students grade is not calculated into the students GPA.",
+        "term": "Year"
+    }
+]
