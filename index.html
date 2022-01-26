@@ -18,6 +18,7 @@
             integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7"
             crossorigin="anonymous"
         >
+        <style></style>
     </head>
     <body>
         <nav class="navbar navbar-dark bg-primary">
@@ -36,8 +37,8 @@
                     <div class="mt-3 mb-3">
                         <form>
                             <div class="form-row">
-                                <label>School:</label>
-                                <select class="schools form-control  mb-3" onchange="schoolChange(this.value)">
+                                <label for="schools">School:</label>
+                                <select id="schools" class="schools form-control  mb-3" onchange="schoolChange(this.value)">
                                     <option value="*" disabled selected>-Select school-</option>
                                     <option value="Acalanes">Acalanes</option>
                                     <option value="Campolindo">Campolindo</option>
@@ -45,8 +46,8 @@
                                     <option value="Miramonte">Miramonte</option>
                                     <option value="*">All schools</option>
                                 </select>
-                                <label>Grade:</label>
-                                <select class="grades form-control" onchange="gradeChange(this.value)">
+                                <label for="grades">Grade:</label>
+                                <select id="grades" class="grades form-control" onchange="gradeChange(this.value)">
                                     <option value="*" disabled selected>-Select grade-</option>
                                     <option value="9">9</option>
                                     <option value="10">10</option>

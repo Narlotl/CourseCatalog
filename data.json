@@ -520,24 +520,6 @@
         "term": "Year"
     },
     {
-        "name": "Algebra 1",
-        "schools": [
-            "Acalanes",
-            "Campolindo",
-            "Las Lomas",
-            "Miramonte"
-        ],
-        "years": [
-            "9",
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "Algebra 1 formalizes and extends the mathematics that students learned in Common Core math 6 – 8. This course includes content standards from the conceptual categories of Number and Quantity, Algebra, Functions, and Statistics and Probability. Through the application of the Standards for Mathematical Practice, students will increasingly engage with the subject matter and grow in mathematical maturity and expertise.",
-        "term": "Year"
-    },
-    {
         "name": "Math Applications",
         "schools": [
             "Acalanes",
@@ -796,6 +778,7 @@
         "description": "AP Computer Science Principles introduces students to the central ideas of computer science, instilling the ideas and practices of computational thinking and inviting students to understand how computing changes the world.  The rigorous course promotes deep learning of computational content, develops computational thinking skills, and engages students in the creative aspects of the field. The course is unique in its focus on fostering students to be creative. Students are encouraged to apply creative processes when developing computational artifacts and to think creatively while using simulations to explore questions that interest them.",
         "term": "Year"
     },
+    "Physical Education",
     {
         "name": "PE 9",
         "schools": [
@@ -918,6 +901,7 @@
         "description": "The purpose of Athletic Physical Education is to provide options for student to engage in alternative pathways for which they can receive physical education credit towards graduation. To ensure that all students are exposed to a well−rounded Physical Education curriculum and participate in a series of state−mandated physical performance tests later in ninth grade, freshmen are not eligible to participate in Athletic PE. This program allows eligible students to gain up to 10 credits in the area of Physical Education by participating in the California Interscholastic Federation (CIF) approved sports. CIF sports are school sponsored sports and do not include sports offered outside of the school. Students gain five (5) credits for participating in a season of sport. Participating in two (2) seasons of sport will earn a student 10 credits. Students may not earn more than 10 credits through Athletic PE. The program is not available to 12th grade students.",
         "term": "Semester"
     },
+    "Science",
     {
         "name": "The Living Earth (formerly Biology)",
         "schools": [
@@ -1192,6 +1176,7 @@
         "description": "AP Environmental Science provides students with the scientific principles, concepts, and methodologies required to understand the interrelationships of the natural world, to identify and analyze environmental problems both natural and human−made, to evaluate the relative risks associated with these problems, and to examine alternative solutions for resolving and/or preventing them.  Environmental Science is interdisciplinary; it embraces a wide variety of topics from different areas of study.  If the school site offers this course as an ROP course, the student must be in 11th or 12th grade in order to enroll.",
         "term": "Year"
     },
+    "Social Studies",
     {
         "name": "World History, Culture & Geography",
         "schools": [
@@ -1455,6 +1440,7 @@
         "description": "AP Macroeconomics provides an introductory, college−level presentation of the principles of economics that apply to an economic system as a whole.  A particular emphasis is placed on the study of national income and price−level determination, economic performance measures, the financial sector, stabilization policies, economic growth and international economics.",
         "term": "Year"
     },
+    "Visual and Performing Arts",
     {
         "name": "Art 1",
         "schools": [
@@ -1842,7 +1828,7 @@
         "term": "Year"
     },
     {
-        "name": "2Choral Performance 1 (Chorale, Mixed Chorus)",
+        "name": "Choral Performance 1 (Chorale, Mixed Chorus)",
         "schools": [
             "Acalanes",
             "Campolindo",
@@ -2044,6 +2030,7 @@
         "description": "This course is designed to develop a student’s ability to recognize, understand, and describe the basic materials and processes of music that are heard or presented in a score.  Foundational skills are achieved by addressing fundamental aural, analytical, and compositional skills using both listening and written exercises.  These skills lead to creative tasks, such as the harmonization of a melody by selecting appropriate chords. This course may be offered as an ROP course.",
         "term": "Year"
     },
+    "World Languages",
     {
         "name": "French 1",
         "schools": [
@@ -2505,6 +2492,7 @@
         "description": "While emphasizing the use of Spanish for active communication, this course encompasses aural/oral skills, reading comprehension, grammar, and composition.  This course is designed to develop comprehension and expression of formal and informal spoken Spanish in an accurate and fluent fashion.  Vocabulary development and the composition of expository passages are highlighted.",
         "term": "Year"
     },
+    "Interdisciplinary",
     {
         "name": "Advanced Publications",
         "schools": [

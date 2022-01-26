@@ -1,3 +1,12 @@
+/*
+_name: the course title
+_schools: the schools the course is offered at
+_years: the grades the course can be taken
+_prev: the courses requiered before taking this course
+_desc: the course description
+_term: how long the course lasts
+*/
+
 var html = `
 <div class="course">
 <h3>_name</h3>
@@ -34,29 +43,20 @@ function gradeChange(value) {
     grade = value;
     update();
 }
-/*
-var params = new URLSearchParams(location.search);
-if (params.get('school') && params.get('grade')) {
-    school = params.get('school');
-    grade = params.get('grade');
-    update();
-}
-*/
+
 function update() {
-    /*
-    params.set('school', school);
-    params.set('grade', grade);
-    location = location.href.replace(location.search, '').concat('?').concat(params);*/
     amount = 0;
-    document.querySelector('div.courses').innerHTML = '';
+    document.querySelector('div.courses').innerHTML = '<div class="go-to"><h3>Subjects</h3><ul></ul></div>';
     courses.forEach(course => {
         try {
             if ((course.schools.includes(school) || school == '*') && (course.years.includes(grade) || grade == '*')) {
                 document.querySelector('div.courses').innerHTML += html.replaceAll('_name', course.name).replaceAll('_prev', course.previous_courses).replaceAll('_term', course.term).replaceAll('_desc', course.description).replaceAll('_schools', course.schools.toString().replaceAll(',', ', ')).replaceAll('_years', course.years.toString().replaceAll(',', ', '));
                 amount++;
             }
-        } catch (e) { document.querySelector('div.courses').innerHTML += '<h1>'.concat(course).concat('</h1>'); }
+        } catch (e) {
+            document.querySelector('div.courses').innerHTML += '<h1 id="'.concat(course).concat('">').concat(course).concat('</h1>');
+            document.querySelector('div.go-to > ul').innerHTML += '<li><a href="#'.concat(course).concat('">').concat(course).concat(' </a></li>');
+        }
     });
     document.querySelector('div.courses').innerHTML = '<div class="alert alert-primary"><strong>' + amount + ' courses!</strong ></div > ' + document.querySelector('div.courses').innerHTML;
 }
-//document.querySelector('div.courses').innerHTML += html.replaceAll('_name', course.name).replaceAll('_prev', course.previous_courses).replaceAll('_term', course.term).replaceAll('_desc', course.description).replaceAll('_schools', course.schools.toString().replaceAll(',', ', ')).replaceAll('_years', course.years.toString().replaceAll(',', ', '))
