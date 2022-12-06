@@ -17,9 +17,23 @@
         "term": "Year"
     },
     {
-        "name": "Introduction to Engineering Design",
+        "name": "Automotive Engineering Advanced",
         "schools": [
             "Acalanes",
+            "Campolindo",
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Automotive Engineering",
+        "description": "Automotive Engineering Advanced course offers students instruction in advanced technology and practices, tune-up, emission control, power transmission, brakes, machine operations, diagnostics, computer controls suspension, steering, fuel systems and engine overhaul. The program includes both classroom and practical time. This course may be repeated for credit.",
+        "term": "Year"
+    },
+    {
+        "name": "Introduction to Engineering Design",
+        "schools": [
             "Campolindo",
             "Miramonte"
         ],
@@ -301,6 +315,7 @@
         "name": "English 4: Deconstructing Race",
         "schools": [
             "Acalanes",
+            "Campolindo",
             "Las Lomas",
             "Miramonte"
         ],
@@ -489,8 +504,7 @@
         "name": "Algebra B",
         "schools": [
             "Acalanes",
-            "Campolindo",
-            "Las Lomas"
+            "Campolindo"
         ],
         "years": [
             "10",
@@ -536,7 +550,8 @@
     {
         "name": "Financial Algebra",
         "schools": [
-            "Las Lomas"
+            "Las Lomas",
+            "Miramonte"
         ],
         "years": [
             "11",
@@ -760,7 +775,7 @@
         ],
         "previous_courses": "Intro to Computer Science",
         "description": "AP Computer Science A students will continue studying Java and object oriented programming methodology in preparation for the AP exam. There is an emphasis on problem solving, algorithm development, data structures, design and abstraction. While Introduction to Computer Programming is a preferred previous course of study, students who are highly motivated or who have prior programming experience or strong math backgrounds may take AP without the prerequisite year. If the school site offers this course as an ROP course, the student must be in 11th or 12th grade in order to enroll.",
-        "term": "Semester"
+        "term": "Year"
     },
     {
         "name": "AP Computer Science Principles",
@@ -806,7 +821,7 @@
         ],
         "previous_courses": "None",
         "description": "This course will consist of combination of aerobic activities including warm−up techniques, high and low impact aerobics, step training, flexibility exercises, hand−held weights resistance training and specific muscle group work designed for all students. Students will also use aquatic techniques to improve cardiovascular endurance; water aerobics and aquatic interval training.  Students will be also given the opportunity to learn techniques in power/cardio –walking and how it can improve cardiovascular endurance and encourage mental well−being.",
-        "term": "Year"
+        "term": "Semester"
     },
     {
         "name": "PE Fundamentals of Yoga",
@@ -936,23 +951,6 @@
         "term": "Year"
     },
     {
-        "name": "Geology",
-        "schools": [
-            "Acalanes",
-            "Campolindo",
-            "Las Lomas",
-            "Miramonte"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "The Living Earth",
-        "description": "The Geology course offers a comprehensive study of the earth and space sciences. Topics include a study of geology, oceanography, weather, climate and astronomy which will provide students with an understanding of Earth as a set of interconnected systems, dynamically evolving through time. The course is lab focused and will provide students with an opportunity to integrate science concepts while learning about the processes that continue to shape the Earth and our environment.",
-        "term": "Year"
-    },
-    {
         "name": "Physics of the Universe (formerly Physics)",
         "schools": [
             "Acalanes",
@@ -1018,8 +1016,7 @@
     {
         "name": "Environmental Science",
         "schools": [
-            "Acalanes",
-            "Campolindo"
+            "Acalanes"
         ],
         "years": [
             "11",
@@ -1035,6 +1032,7 @@
             "Las Lomas"
         ],
         "years": [
+            "9",
             "10",
             "11",
             "12"
@@ -1058,7 +1056,7 @@
         "term": "Year"
     },
     {
-        "name": "Analytical Forensic Science",
+        "name": "Analytical Forensic Science - ROP",
         "schools": [
             "Las Lomas"
         ],
@@ -1221,7 +1219,7 @@
         ],
         "previous_courses": "None",
         "description": "U.S. Government is a study of the institutions of American government.  The course focuses on the executive, judicial and legislative branches of the federal government, the election process, and political parties.  There is an emphasis on the concepts of constitutionalism, representative democracy, separation of powers, checks and balances, and federalism.  (Taken with one semester of Economics)",
-        "term": "Year"
+        "term": "Semester"
     },
     {
         "name": "Economics",
@@ -1281,7 +1279,7 @@
         ],
         "previous_courses": "None",
         "description": "This course encourages critical thought on contemporary issues and is divided into the following areas: Life and Health Issues, Discrimination Issues, Constitutional Issues, Global Issues, Cultural Issues and Frameworks, Public Speaking and Persuasive Writing Skills, and Connections, Conflicts, and Meaningful Solutions. Each area of study includes a film that relates to the general issue.   It will provide students an opportunity to identify and evaluate political, cultural, and economic issues on a local, state, national, and international level.  A variety of current news media are used to help students learn how contemporary social issues affect them and an emphasis is placed on their role as constructive citizens in an interdependent world.",
-        "term": "Semester"
+        "term": "Year"
     },
     {
         "name": "Law and Society",
@@ -1383,20 +1381,6 @@
         ],
         "previous_courses": "World History",
         "description": "This course which studies European history since 1450 introduces students to cultural, economic, political, and social developments that played a fundamental role in shaping the world in which they live.  The goals of European History are to develop an understanding of some of the principal themes in modern European History, an ability to analyze historical evidence and historical interpretation, and an ability to express historical understanding in writing.",
-        "term": "Semester"
-    },
-    {
-        "name": "AP Human Geography",
-        "schools": [
-            "Las Lomas"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "World History and Geography",
-        "description": "Human Geography is the systematic study of patterns and processes that have shaped human understanding, use and alteration of Earth’s environments.  Students employ spatial concepts and landscape analysis to analyze human and social organization and its environmental consequences.",
         "term": "Year"
     },
     {
@@ -1417,7 +1401,8 @@
         "name": "AP Psychology",
         "schools": [
             "Campolindo",
-            "Las Lomas"
+            "Las Lomas",
+            "Miramonte"
         ],
         "years": [
             "11",
@@ -1438,7 +1423,7 @@
         ],
         "previous_courses": "None",
         "description": "AP Macroeconomics provides an introductory, college−level presentation of the principles of economics that apply to an economic system as a whole.  A particular emphasis is placed on the study of national income and price−level determination, economic performance measures, the financial sector, stabilization policies, economic growth and international economics.",
-        "term": "Year"
+        "term": "Semester"
     },
     "Visual and Performing Arts",
     {
@@ -1640,7 +1625,7 @@
         ],
         "previous_courses": "None",
         "description": "Photography/Digital Design is a college−preparatory, interdisciplinary approach to visual arts and the humanities.  The class enables students to achieve an understanding and appreciation of artistic expression and to write and discuss with discrimination about photography as applied to themes in the humanities and history. Course work will emphasize student−created photographic art works as well as analytical reading, writing, and critiques. Substantial outside reading and research on individual biographies of historic and contemporary photographers, as well as written reviews of works of photographers, will be required.  Students will analyze photographic works through discussion or writing using the appropriate vocabulary for describing techniques and aesthetic qualities.",
-        "term": "Semester"
+        "term": "Year"
     },
     {
         "name": "Digital Photography Advanced",
@@ -1671,7 +1656,11 @@
     },
     {
         "name": "Digital Design 1",
-        "schools": [],
+        "schools": [
+            "Acalanes",
+            "Las Lomas",
+            "Miramonte"
+        ],
         "years": [
             "9",
             "10",
@@ -1863,23 +1852,6 @@
         "term": "Year"
     },
     {
-        "name": "Choral Performance 2 (M/W Ensemble)",
-        "schools": [
-            "Campolindo",
-            "Las Lomas",
-            "Miramonte"
-        ],
-        "years": [
-            "9",
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "Choral Performance 1",
-        "description": "Choral Performance 2 is a beginning to intermediate vocal music course.  Students will further develop their knowledge of music fundamentals, vocal technique, sight−reading, and historical and cultural perspectives of choral music.  Members will perform a variety of repertoire from different historic periods and cultures from two, three, and four−part selections for voices.",
-        "term": "Year"
-    },
-    {
         "name": "Choral Performance 3 (Concert Choir)",
         "schools": [
             "Acalanes",
@@ -1909,6 +1881,20 @@
         ],
         "previous_courses": "Choral Performance 3, audition required",
         "description": "Choral Performance 4 is an advanced ensemble.  Students will show understanding and mastery of music theory, sight−reading, and appropriate performance styles.  Members will perform advanced literature from the repertoire of choral music and have many opportunities for performing in school and in the community.  Students will be expected to undertake leadership and administrative roles.",
+        "term": "Year"
+    },
+    {
+        "name": "Choral Performance 4 Honors (Chamber Singers)",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "Choral Performance 3, audition required",
+        "description": "Choral Performance 4 Honors is a class that builds on the existing advanced coursework in the Choral Performance 4 curriculum. Students will demonstrate a mastery of music theory, sight‐reading, and appropriate performance styles and perform advanced literature from the repertoire of choral music. Students will undertake leadership and administrative roles. For the Honors designation, students will complete capstone projects (i.e. solo performance, advanced musical score analysis, original musical composition and arrangement) and additional academic papers each semester. Course has been submitted and is pending a-g approval.",
         "term": "Year"
     },
     {
@@ -2522,7 +2508,7 @@
         ],
         "previous_courses": "None",
         "description": "Human & Social Development is a foundational course that provides essential knowledge and skills to enable students to arrive at informed and healthy decisions in a complex and diverse world. This course emphasizes the following topics: identity, relationships, physical and mental wellness, substance use and abuse, and sexuality. The course also addresses some of the California Health Standards that include evaluation of valid health information, goal setting, analyzing perspectives and influences, and informed decision−making.Human and Social Development course is required for graduation.",
-        "term": "Year"
+        "term": "Semester"
     },
     {
         "name": "Introduction to Ethnic Studies",
@@ -2557,7 +2543,7 @@
         ],
         "previous_courses": "None",
         "description": "The Leadership class is designed to engage students in shaping a positive campus environment and culture, and to develop students’ sense of social and civic responsibility.  Students will develop leadership and management skills including:  organization, goal setting, communication, problem solving, and decision making.  Students will use these skills to plan and implement student activities on the school campus.",
-        "term": "Semester"
+        "term": "Year"
     },
     {
         "name": "Peer Tutoring",
