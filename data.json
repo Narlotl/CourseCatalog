@@ -48,6 +48,21 @@
         "term": "Year"
     },
     {
+        "name": "Design/Fabrication Technology",
+        "schools": [
+            "Acalanes"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Design and Fabrication Technology provides students with knowledge to safely operate and maintain hand and power tools as well as woodworking, plastic and metal machines as an introduction into the processes necessary to manufacture a product. This course is designed to show the inter-relationships between design, machinery, and fabrication. The course provides a broad range of applied basic skills and specific technical skills necessary to function in a highly-technological society and work place. The student will improve skills in drafting, machining and fabrication. The design process is examined as it relates to manufactured products. Topics also included are how to write specifications, how to control quality, understand tests and analysis, and work with prototypes. The student is given lab assignments to be completed on CAD software.",
+        "term": "Year"
+    },
+    {
         "name": "Principles of Engineering",
         "schools": [
             "Miramonte"
@@ -94,7 +109,6 @@
     {
         "name": "Wood Technology",
         "schools": [
-            "Acalanes",
             "Las Lomas"
         ],
         "years": [
@@ -108,21 +122,6 @@
         "term": "Year"
     },
     {
-        "name": "Wood Technology−Advanced",
-        "schools": [
-            "Acalanes",
-            "Las Lomas"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "NA",
-        "description": "Advanced Wood Technology provides the student with the opportunity to further develop the skills learned in Wood Technology, with the addition of advanced joinery and finishing techniques, and the use of additional materials such as plastics, metals, and casting resins. Students will be encouraged to plan and develop projects of their own conception. Throughout the year, emphasis is placed on safety, responsibility, and cooperation.",
-        "term": "Year"
-    },
-    {
         "name": "Wood Technology and Engineering",
         "schools": [
             "Campolindo"
@@ -133,8 +132,23 @@
             "11",
             "12"
         ],
-        "previous_courses": "NA",
+        "previous_courses": "None",
         "description": "Wood Technology and Engineering is a course that provides students with experiences in the elements of art and principles of design using wood as the primary artistic vehicle. Topics include industrial drawing/CAD, CNC, Engineering, Laser Engraving, design and construction techniques. Students will be provided with the knowledge to safely operate and maintain both hand and power tools as well as woodworking machines. Throughout the year, students will complete projects while learning the identification and use of tools, woods, basic joinery and finishing techniques, and CAD and CNC basics. Emphasis is placed on safety , responsibility, and cooperation. Course has been submitted and is pending a−g approval.",
+        "term": "Year"
+    },
+    {
+        "name": "Wood Technology−Advanced",
+        "schools": [
+            "Campolindo",
+            "Las Lomas"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Wood Technology",
+        "description": "Advanced Wood Technology provides the student with the opportunity to further develop the skills learned in Wood Technology, with the addition of advanced joinery and finishing techniques, and the use of additional materials such as plastics, metals, and casting resins. Students will be encouraged to plan and develop projects of their own conception. Throughout the year, emphasis is placed on safety, responsibility, and cooperation.",
         "term": "Year"
     },
     {
@@ -170,7 +184,8 @@
     {
         "name": "Foods Adv. Baking & Cooking",
         "schools": [
-            "Las Lomas"
+            "Las Lomas",
+            "Miramonte"
         ],
         "years": [
             "10",
@@ -285,6 +300,7 @@
     {
         "name": "English 4",
         "schools": [
+            "Acalanes",
             "Campolindo",
             "Las Lomas",
             "Miramonte"
@@ -364,18 +380,6 @@
         "term": "Year"
     },
     {
-        "name": "English 4: Women's Literature",
-        "schools": [
-            "Miramonte"
-        ],
-        "years": [
-            "12"
-        ],
-        "previous_courses": "English 3",
-        "description": "English 4: Women’s LIterature course builds and extends the knowledge learned in English 3 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. The course focuses on literature written by women as well as exploring gender through the  women’s literature. This course may be taken to satisfy the fourth year of English language requirement.",
-        "term": "Year"
-    },
-    {
         "name": "English 4/WISE",
         "schools": [
             "Miramonte"
@@ -403,6 +407,21 @@
         ],
         "previous_courses": "None",
         "description": "Journalism students will expand their English/Language Arts and visual arts skills through creating and publishing the school newspaper.  Students are required to write monthly assignments for the newspaper and other class projects.  They practice varied forms of journalistic writing including news, features, and sports stories, as well as reviews and editorials.  Students learn laws and ethical standards related to journalism.  In the process of writing their stories, laying out newspaper pages, and designing advertising, students learn to use specialized software for word processing, page layout, and graphic design.  This course is designed for students who are interested in refining their writing skills as well as exploring careers in journalism. This course may be offered as an ROP course. Pre−Requisites:  Journalism 1: English 1 and teacher approval; Journalism 2: Journalism 1 and teacher approval; Journalism 3: Journalism 2 and teacher approval.",
+        "term": "Year"
+    },
+    {
+        "name": "Communications",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Communications is a project-based, hands-on course that leads students to become the architects of their own message. This class combines the foundational skills of speaking, listening, and writing and helps students understand how communication works through frequent practice. We look at the vital role that communication plays in developing relationships and being understood and how communication is more important than ever in this attention economy with trends in communication both peaking and falling. Additionally, students learn about speaking for different purposes, discussing for understanding vs. arguing to win, and about the different communication systems across races and cultures.",
         "term": "Year"
     },
     {
@@ -548,7 +567,7 @@
         "term": "Year"
     },
     {
-        "name": "Financial Algebra",
+        "name": "Advanced Algebra with Financial Applications",
         "schools": [
             "Las Lomas",
             "Miramonte"
@@ -558,7 +577,7 @@
             "12"
         ],
         "previous_courses": "None",
-        "description": "Financial Algebra is a mathematical course that is algebra−based and applications−oriented. The course addresses college preparatory mathematics topics from Algebra, Statistics and Probability and more under seven financial umbrellas: Banking, Investing, Credit, Employment and Income Taxes, Automobile Ownership, Independent Living, and Retirement Planning and Household Budgeting. The mathematics topics contained in this course are introduced , developed, and applied in an as−needed format in the financial settings covered. Students are encouraged to use a variety of problem−solving skills and strategies in real−world contexts, and to question outcomes using mathematical analysis and data to support their findings.",
+        "description": "Financial Algebra is a mathematical course that is algebra−based and applications−oriented. The course addresses college preparatory mathematics topics from Algebra, Statistics and Probability and more under seven financial umbrellas: Banking, Investing, Credit, Employment and Income Taxes, Automobile Ownership, Independent Living, and Retirement Planning and Household Budgeting. The mathematics topics contained in this course are introduced, developed, and applied in an as−needed format in the financial settings covered. Students are encouraged to use a variety of problem−solving skills and strategies in real−world contexts, and to question outcomes using mathematical analysis and data to support their findings.",
         "term": "Year"
     },
     {
@@ -653,7 +672,6 @@
         "schools": [
             "Acalanes",
             "Campolindo",
-            "Las Lomas",
             "Miramonte"
         ],
         "years": [
@@ -676,7 +694,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Algebra2 Advanced",
+        "previous_courses": "Algebra 2 Advanced",
         "description": "Pre−Calculus combines many of the trigonometric, geometric and algebraic techniques needed to prepare students for the study of calculus and strengthens their conceptual understanding of problems and mathematical reasoning in solving problems. This course takes a functional point of view toward these topics. Students will be introduced to matrices, vectors, polar graphing, parametric equations, conic sections, and introductory calculus topics.",
         "term": "Year"
     },
@@ -725,7 +743,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Algebra II/Pre−Calculus Honors",
+        "previous_courses": "Algebra 2/Pre−Calculus Honors",
         "description": "AP Calculus AB completes a college curriculum in variable calculus.  The course focuses on developing the student's understanding of the concepts of calculus and providing experience with its methods and applications.  The themes of derivatives, integrals, limits, approximation and applications and modeling are used to present a cohesive whole in the study of calculus.",
         "term": "Year"
     },
@@ -740,14 +758,13 @@
         "years": [
             "12"
         ],
-        "previous_courses": "Advanced Placement Calculus AB",
+        "previous_courses": "AP Calculus AB",
         "description": "AP Calculus BC completes a college curriculum in variable calculus.  This course focuses on developing the student's understanding of the concepts of calculus and providing experience with its methods and applications.  The themes of derivatives, integrals, limits, approximation and applications and modeling are used to present a cohesive whole in the study of calculus.  This course also includes the study of polynomial approximations and series.",
         "term": "Year"
     },
     {
         "name": "Introduction to Computer Science",
         "schools": [
-            "Acalanes",
             "Campolindo",
             "Las Lomas",
             "Miramonte"
@@ -759,7 +776,7 @@
         ],
         "previous_courses": "None",
         "description": "This course exposes students to the fundamental principles and concepts of computer science and programming.  Students will learn to code through hands−on assignments which include game design, lab completion, independent projects and pair programming. This course serves as both an introduction to, and foundation for, further study in computer science.",
-        "term": "Year"
+        "term": "Semester"
     },
     {
         "name": "AP Computer Science A",
@@ -773,7 +790,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Intro to Computer Science",
+        "previous_courses": "Introduction to Computer Science",
         "description": "AP Computer Science A students will continue studying Java and object oriented programming methodology in preparation for the AP exam. There is an emphasis on problem solving, algorithm development, data structures, design and abstraction. While Introduction to Computer Programming is a preferred previous course of study, students who are highly motivated or who have prior programming experience or strong math backgrounds may take AP without the prerequisite year. If the school site offers this course as an ROP course, the student must be in 11th or 12th grade in order to enroll.",
         "term": "Year"
     },
@@ -786,10 +803,11 @@
             "Miramonte"
         ],
         "years": [
+            "10",
             "11",
             "12"
         ],
-        "previous_courses": "Introduction to Computer Programming, Pre−calculus or above",
+        "previous_courses": "Introduction to Computer Science, Pre-calculus or above (This is what AUHSD says, but they probably aren't needed)",
         "description": "AP Computer Science Principles introduces students to the central ideas of computer science, instilling the ideas and practices of computational thinking and inviting students to understand how computing changes the world.  The rigorous course promotes deep learning of computational content, develops computational thinking skills, and engages students in the creative aspects of the field. The course is unique in its focus on fostering students to be creative. Students are encouraged to apply creative processes when developing computational artifacts and to think creatively while using simulations to explore questions that interest them.",
         "term": "Year"
     },
@@ -808,20 +826,6 @@
         "previous_courses": "None",
         "description": "The ninth grade Physical Education course encompasses areas of physical education and is based on the California PE Model Standards. Students will focus on the development of proficient movement skills in each area of physical education; expanding their capabilities for independent learning; and examining practices that allow for sound decision making to enhance successful participation in movement activities.",
         "term": "Year"
-    },
-    {
-        "name": "PE Cardio Fitness",
-        "schools": [
-            "Las Lomas"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "This course will consist of combination of aerobic activities including warm−up techniques, high and low impact aerobics, step training, flexibility exercises, hand−held weights resistance training and specific muscle group work designed for all students. Students will also use aquatic techniques to improve cardiovascular endurance; water aerobics and aquatic interval training.  Students will be also given the opportunity to learn techniques in power/cardio –walking and how it can improve cardiovascular endurance and encourage mental well−being.",
-        "term": "Semester"
     },
     {
         "name": "PE Fundamentals of Yoga",
@@ -855,7 +859,7 @@
         "term": "Semester"
     },
     {
-        "name": "PE Net Sports ",
+        "name": "PE Net Sports",
         "schools": [
             "Campolindo"
         ],
@@ -918,7 +922,7 @@
     },
     "Science",
     {
-        "name": "The Living Earth (formerly Biology)",
+        "name": "The Living Earth",
         "schools": [
             "Acalanes",
             "Campolindo",
@@ -934,7 +938,7 @@
         "term": "Year"
     },
     {
-        "name": "Chemistry in the Earth System (formerly Chemistry)",
+        "name": "Chemistry in the Earth System",
         "schools": [
             "Acalanes",
             "Campolindo",
@@ -951,7 +955,22 @@
         "term": "Year"
     },
     {
-        "name": "Physics of the Universe (formerly Physics)",
+        "name": "Earth and Space Science",
+        "schools": [
+            "Acalanes",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth",
+        "description": "Earth and Space Science offers a comprehensive and in-depth study of Earth and Space Science (ESS) Next Generation Science Standards. The course will focus on three questions: What is the universe, and what is Earth’s place in it? How and why is Earth constantly changing? And, How do Earth’s surface processes and human activities affect each other? Students will develop an understanding of Earth as a set of interconnected systems, dynamically evolving through time. (Grade 10 students are eligible for enrollment in Earth and Space Science with concurrent enrollment in Chemistry in the Earth System)",
+        "term": "Year"
+    },
+    {
+        "name": "Physics of the Universe",
         "schools": [
             "Acalanes",
             "Campolindo",
@@ -1016,7 +1035,8 @@
     {
         "name": "Environmental Science",
         "schools": [
-            "Acalanes"
+            "Acalanes",
+            "Campolindo"
         ],
         "years": [
             "11",
@@ -1056,19 +1076,6 @@
         "term": "Year"
     },
     {
-        "name": "Analytical Forensic Science - ROP",
-        "schools": [
-            "Las Lomas"
-        ],
-        "years": [
-            "11",
-            "12"
-        ],
-        "previous_courses": "The Living Earth and Chemistry in the Earth System",
-        "description": "In this class, emphasis is on understanding the underlying scientific theories of forensic science. The class will build upon the student’s prior knowledge of biology and chemistry, using analytical chemistry techniques to analyze and identify trace evidence, including DNA. Students will evaluate the constituents of materials by organic, inorganic, and biochemical analysis, and use their academic and laboratory skills to develop a deeper understanding of science. A sound foundation in the scientific principles underlying the laboratory techniques is crucial to the education of a forensic scientist. This class prepares students to further their science education at the university level, and introduces them to the possibilities of a science related career. Integrated throughout the course are career preparation standards which include basic academic skills, communication, interpersonal skills,  problem solving, workplace safety, technology and employment literacy.",
-        "term": "Year"
-    },
-    {
         "name": "Medical Intervention Honors",
         "schools": [
             "Las Lomas"
@@ -1079,6 +1086,19 @@
         ],
         "previous_courses": "Human Body Systems",
         "description": "Medical Interventions Honors course builds upon knowledge gained in the Human Body Systems and is a course where students delve into activities like designing a prosthetic arm as they follow a fictitious family and investigate how to prevent, diagnose and treat disease.",
+        "term": "Year"
+    },
+    {
+        "name": "Analytical Forensic Science - ROP",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth and Chemistry in the Earth System",
+        "description": "In this class, emphasis is on understanding the underlying scientific theories of forensic science. The class will build upon the student’s prior knowledge of biology and chemistry, using analytical chemistry techniques to analyze and identify trace evidence, including DNA. Students will evaluate the constituents of materials by organic, inorganic, and biochemical analysis, and use their academic and laboratory skills to develop a deeper understanding of science. A sound foundation in the scientific principles underlying the laboratory techniques is crucial to the education of a forensic scientist. This class prepares students to further their science education at the university level, and introduces them to the possibilities of a science related career. Integrated throughout the course are career preparation standards which include basic academic skills, communication, interpersonal skills,  problem solving, workplace safety, technology and employment literacy.",
         "term": "Year"
     },
     {
@@ -1151,7 +1171,7 @@
             "Las Lomas"
         ],
         "years": [
-            "12",
+            "11",
             "12"
         ],
         "previous_courses": "Physics and/or Chemistry in the Earth System and Algebra 2 Advanced",
@@ -1239,7 +1259,6 @@
     {
         "name": "Global Studies",
         "schools": [
-            "Las Lomas",
             "Miramonte"
         ],
         "years": [
@@ -1268,9 +1287,7 @@
     {
         "name": "Contemporary Issues & Public Policy",
         "schools": [
-            "Acalanes",
-            "Campolindo",
-            "Las Lomas"
+            "Acalanes"
         ],
         "years": [
             "10",
@@ -1308,7 +1325,7 @@
             "12"
         ],
         "previous_courses": "None",
-        "description": "This course is an introductory study of the psychological domains: research methods, bio−psychological, cognitive, developmental, and social.  It is research oriented in approach, introducing students to the systematic study of behavioral and mental processes.Campolindo: Grades 10−12, Las Lomas: Grades 11, 12",
+        "description": "This course is an introductory study of the psychological domains: research methods, bio−psychological, cognitive, developmental, and social.  It is research oriented in approach, introducing students to the systematic study of behavioral and mental processes.",
         "term": "Year"
     },
     {
@@ -1352,7 +1369,7 @@
         ],
         "previous_courses": "None",
         "description": "This course introduces students to fundamental concepts used by political scientists to study the processes and the outcomes of politics in a variety of country settings.  AP Comparative Government and Politics aims to illustrate the rich diversity of political life, to show available institutional alternatives, to explain differences in processes and policy outcomes, and to communicate to students the importance of global political and economic changes.  (Taken with one semester of Economics)",
-        "term": "Year"
+        "term": "Semester"
     },
     {
         "name": "AP US Government & Politics",
@@ -1495,6 +1512,7 @@
     {
         "name": "Independent Art Portfolio",
         "schools": [
+            "Acalanes",
             "Campolindo",
             "Las Lomas",
             "Miramonte"
@@ -1585,7 +1603,7 @@
         "term": "Year"
     },
     {
-        "name": "3D ART 4 ",
+        "name": "3D ART 4",
         "schools": [
             "Las Lomas"
         ],
@@ -1721,7 +1739,6 @@
     {
         "name": "Video Production 3",
         "schools": [
-            "Acalanes",
             "Campolindo"
         ],
         "years": [
@@ -1784,6 +1801,21 @@
         "term": "Year"
     },
     {
+        "name": "Advanced Drama Honors",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "Drama 2",
+        "description": "Advanced Drama Honors offers the advanced theatre student the opportunity to gain additional experience in dramatic arts through acting, technical theatre, and an exploration of theatre within an historical and cultural context. The honors course is designed for students who have demonstrated a unique commitment to Drama and who strive for an additional and extensive Theatre Arts challenges. For the Honors designation, students will complete capstone projects (i.e. write and/or direct a play) and additional academic papers each semester in addition to the Advanced Drama coursework.",
+        "term": "Year"
+    },
+    {
         "name": "Stagecraft",
         "schools": [
             "Acalanes",
@@ -1803,7 +1835,6 @@
     {
         "name": "Oral Interpretation",
         "schools": [
-            "Las Lomas",
             "Miramonte"
         ],
         "years": [
@@ -1873,13 +1904,14 @@
         "schools": [
             "Acalanes",
             "Campolindo",
+            "Las Lomas",
             "Miramonte"
         ],
         "years": [
             "11",
             "12"
         ],
-        "previous_courses": "Choral Performance 3, audition required",
+        "previous_courses": "Choral Performance 3",
         "description": "Choral Performance 4 is an advanced ensemble.  Students will show understanding and mastery of music theory, sight−reading, and appropriate performance styles.  Members will perform advanced literature from the repertoire of choral music and have many opportunities for performing in school and in the community.  Students will be expected to undertake leadership and administrative roles.",
         "term": "Year"
     },
@@ -1888,18 +1920,20 @@
         "schools": [
             "Acalanes",
             "Campolindo",
+            "Las Lomas",
             "Miramonte"
         ],
         "years": [
             "12"
         ],
-        "previous_courses": "Choral Performance 3, audition required",
+        "previous_courses": "Choral Performance 3",
         "description": "Choral Performance 4 Honors is a class that builds on the existing advanced coursework in the Choral Performance 4 curriculum. Students will demonstrate a mastery of music theory, sight‐reading, and appropriate performance styles and perform advanced literature from the repertoire of choral music. Students will undertake leadership and administrative roles. For the Honors designation, students will complete capstone projects (i.e. solo performance, advanced musical score analysis, original musical composition and arrangement) and additional academic papers each semester. Course has been submitted and is pending a-g approval.",
         "term": "Year"
     },
     {
         "name": "Musical Theater Workshop",
         "schools": [
+            "Las Lomas",
             "Miramonte"
         ],
         "years": [
@@ -1949,6 +1983,21 @@
         "term": "Year"
     },
     {
+        "name": "Jazz Ensemble Honors",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Jazz Ensemble Honors is an advanced audition ensemble. This course provides an intimate ensemble approach to music of all periods. Students in Jazz Ensemble Honors will represent the school at numerous performances and festivals. Students enrolled in this honors course will be expected to perform with mastery in all aspects of advanced academic instrumental music performance and technique. Jazz Ensemble Honors is a class that builds on the existing advanced coursework in the Jazz curriculum. Students enrolled in Jazz Honors will do all of the work and performing required of them for the Jazz class; in addition, they will complete a capstone project that will engage them in honors-level work for both semesters.",
+        "term": "Year"
+    },
+    {
         "name": "Orchestra",
         "schools": [
             "Acalanes",
@@ -1964,6 +2013,21 @@
         ],
         "previous_courses": "None",
         "description": "Orchestra offers the opportunity for string players to study and perform music of many styles and musical periods, develop techniques, and participate in a variety of group and ensemble experiences.  The preparation process is the important component of the program, in that the performance of each student in the instrumental class is critically important to, and affects the performance of, every other student in the class.",
+        "term": "Year"
+    },
+    {
+        "name": "Orchestra Honors",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Orchestra Honors provides an ensemble approach to music of all periods. Students in Orchestra Honors will represent the school at numerous performances and festivals. Students enrolled in this honors course will be expected to perform with mastery in all aspects of advanced academic instrumental music performance and technique. Orchestra Honors is a class that builds on the existing advanced coursework in the Orchestra curriculum. Students enrolled in Orchestra Honors will do all of the work and performing required of them for the Orchestra class; in addition, they will complete a capstone project that will engage them in honors-level work for both semesters.",
         "term": "Year"
     },
     {
@@ -1988,6 +2052,7 @@
         "name": "Wind Ensemble",
         "schools": [
             "Acalanes",
+            "Campolindo",
             "Las Lomas"
         ],
         "years": [
@@ -1995,8 +2060,22 @@
             "11",
             "12"
         ],
-        "previous_courses": "Audition",
+        "previous_courses": "None",
         "description": "Wind Ensemble is an advanced performance group with specific instrumentation that includes woodwinds, brass, and percussion instruments.  Emphasis is on sound performance fundamentals including embouchure, seating position, breathing and sight reading.  This class concentrates on musical development and the development of leadership skills.  Students perform as individuals, as members of small ensembles, and as members of the large ensemble.  They study advanced instrumental techniques, performing practices and style and form as it relates to various idioms of selected advanced literature.  Performance requirements include concerts, music festivals, some football games, and community events.",
+        "term": "Year"
+    },
+    {
+        "name": "Wind Ensemble Honors",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Wind Ensemble Honors provides an ensemble approach to music of all periods. Students in Wind Ensemble Honors will represent the school at numerous performances and festivals. Students enrolled in this honors course will be expected to perform with mastery in all aspects of advanced academic instrumental music performance and technique. Wind Ensemble Honors is a class that builds on the existing advanced coursework in the Wind Ensemble curriculum. Students enrolled in Wind Ensemble Honors will do all of the work and performing required of them for the Wind Ensemble class; in addition, they will complete a capstone project that will engage them in honors-level work for both semesters.",
         "term": "Year"
     },
     {
@@ -2480,22 +2559,6 @@
     },
     "Interdisciplinary",
     {
-        "name": "Advanced Publications",
-        "schools": [
-            "Acalanes",
-            "Campolindo",
-            "Las Lomas",
-            "Miramonte"
-        ],
-        "years": [
-            "11",
-            "12"
-        ],
-        "previous_courses": "Publications",
-        "description": "This re−designated course will give students who repeat the Publications course for credit a chance to develop and grow their skills as leaders and editors for the course. It provides a designation for those students who serve as Editors for the course by acknowledging the increased responsibility and broad−range of skills needed by experienced students to successfully run a Publications course.",
-        "term": "Year"
-    },
-    {
         "name": "Human & Social Development",
         "schools": [
             "Acalanes",
@@ -2562,7 +2625,7 @@
         "term": "Year"
     },
     {
-        "name": "Publications (formerly Yearbook)",
+        "name": "Publications (Yearbook)",
         "schools": [
             "Acalanes",
             "Campolindo",
@@ -2576,6 +2639,23 @@
         ],
         "previous_courses": "None",
         "description": "Students participate in all phases of planning and designing the school yearbook, including: overall design, artwork, photography, copy writing, layout, organizing and writing.  Important aspects of the course include meeting strict deadlines, working with a clear set of priorities, aesthetic judgment, cooperation with other students and community representatives and practicing effective leadership.",
+        "term": "Year"
+    },
+    {
+        "name": "Advanced Publications",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Publications",
+        "description": "This re−designated course will give students who repeat the Publications course for credit a chance to develop and grow their skills as leaders and editors for the course. It provides a designation for those students who serve as Editors for the course by acknowledging the increased responsibility and broad−range of skills needed by experienced students to successfully run a Publications course.",
         "term": "Year"
     },
     {
