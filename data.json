@@ -715,6 +715,20 @@
         "term": "Year"
     },
     {
+        "name": "Statistics and Data Science",
+        "schools": [
+            "Acalanes",
+            "This course may be offered at other schools"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Most likely Algebra 2",
+        "description": "No description available.",
+        "term": "Year"
+    },
+    {
         "name": "AP Statistics",
         "schools": [
             "Acalanes",
@@ -1401,6 +1415,21 @@
         "term": "Year"
     },
     {
+        "name": "AP African American Studies",
+        "schools": [
+            "Acalanes",
+            "This course may be offered at other schools"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "Most likely World History",
+        "description": "(From College Board) AP African American Studies is an interdisciplinary course that examines the diversity of African American experiences through direct encounters with rich and varied sources. Students explore key topics that extend from early African kingdoms to the ongoing challenges and achievements of the contemporary moment.",
+        "term": "Year"
+    },
+    {
         "name": "AP Human Geography",
         "schools": [
             "Las Lomas"
@@ -1419,10 +1448,11 @@
         "schools": [
             "Campolindo",
             "Las Lomas",
-            "Miramonte"
+            "Miramonte",
+            "Acalanes"
         ],
         "years": [
-            "11",
+            "11 (not at Acalanes)",
             "12"
         ],
         "previous_courses": "None",
