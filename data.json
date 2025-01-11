@@ -92,39 +92,10 @@
         "term": "Year"
     },
     {
-        "name": "Digital Electronics",
-        "schools": [
-            "Miramonte"
-        ],
-        "years": [
-            "9",
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "From smartphones to appliances, digital circuits are all around us. This course provides a foundation for students who are interested in electrical engineering, electronics, or circuit design. Students study topics such as combinational and sequential logic and are exposed to circuit design tools used in industry, including logic gates, integrated circuits, and programmable logic devices.",
-        "term": "Year"
-    },
-    {
-        "name": "Wood Technology",
-        "schools": [
-            "Las Lomas"
-        ],
-        "years": [
-            "9",
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "Wood Technology provides students with the knowledge to safely operate and maintain both hand and power tools as well as woodworking machines. Throughout the year, students will complete several projects while learning the identification  and use of tools, woods, and basic joinery and finishing techniques. Emphasis is placed on safety, responsibility, and cooperation.",
-        "term": "Year"
-    },
-    {
         "name": "Wood Technology and Engineering",
         "schools": [
-            "Campolindo"
+            "Campolindo",
+            "Las Lomas"
         ],
         "years": [
             "9",
@@ -197,7 +168,7 @@
         "term": "Year"
     },
     {
-        "name": "Foods Adv. Internat'l Cuisine",
+        "name": "Foods Adv. International Cuisine",
         "schools": [
             "Las Lomas",
             "Miramonte"
@@ -270,19 +241,6 @@
         "term": "Year"
     },
     {
-        "name": "English 3 Honors",
-        "schools": [
-            "Acalanes",
-            "Miramonte"
-        ],
-        "years": [
-            "11"
-        ],
-        "previous_courses": "English 2",
-        "description": "English 3 Honors builds and extends the knowledge learned in English 2 and focuses on the study of reading, writing, language, and speaking and listening as outlined in the California Common Core State Standards. There is an increased attention on critical thinking, increasingly complex texts, informational text and nonfiction, integrating technology, and academic vocabulary. Emphasis is placed on traditional and contemporary American Literature and nonfiction/informational reading materials.This course provides additional depth of study in the development of advanced, writing, analysis, and literary criticism skills beyond that required within the English 3 curriculum.",
-        "term": "Year"
-    },
-    {
         "name": "AP English Language & Composition",
         "schools": [
             "Acalanes",
@@ -330,10 +288,7 @@
     {
         "name": "English 4: Deconstructing Race",
         "schools": [
-            "Acalanes",
-            "Campolindo",
-            "Las Lomas",
-            "Miramonte"
+            "Las Lomas"
         ],
         "years": [
             "12"
@@ -380,7 +335,7 @@
         "term": "Year"
     },
     {
-        "name": "English 4/WISE",
+        "name": "English 4: WISE",
         "schools": [
             "Miramonte"
         ],
@@ -470,7 +425,7 @@
         "term": "Year"
     },
     {
-        "name": "English Language Development (ELD)",
+        "name": "Emerging English Language Development",
         "schools": [
             "Acalanes",
             "Campolindo",
@@ -484,7 +439,43 @@
             "12"
         ],
         "previous_courses": "None",
-        "description": "The English Language Development (ELD) program is for students who are not proficient in English. The ELD program helps students master English so they can be successful in their academic courses. There are three areas of instruction: Reading, Grammar and Writing, and Conversation and Vocabulary. Students take placement tests to see which level they need, and they take quarterly benchmark tests to assure they are ready for the next level. ELD Reading focuses on word analysis and vocabulary, reading comprehension and analysis strategies, and reading fluency. ELD Grammar and Writing teaches the conventions of English: syntax, verb tenses, sentence structure, and composition. ELD Conversation and Vocabulary focuses on students’ speaking and listening skills, as well as developing their knowledge of content area and academic vocabulary.",
+        "description": "Emerging ELD is designed for English learners entering AUHSD with a score of 1 on the Initial English Language Proficiency Assessment for California (ELPAC) or a score of 1 on the Summative ELPAC from the prior year. This course will provide students with comprehensive access to the English Language Development Standards aligned to the “emerging” proficiency level. Students will learn to use English for immediate needs and begin to use academic vocabulary and other features of academic language.",
+        "term": "Year"
+    },
+    {
+        "name": "Expanding English Language Development A & B Levels",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Expanding ELD is designed for English learners with a score in the 2 range on the Initial English Language Proficiency Assessment for California (ELPAC) or a score in the 2-3 range on the Summative ELPAC from the prior year. This course is focused on providing comprehensive access to the English Language Development Standards aligned to the “expanding” proficiency level. Students will use their developing English skills in an array of contexts as they learn academic vocabulary and linguistic structures. Established score ranges on the ELPAC will be used to help determine student placement in this course.",
+        "term": "Year"
+    },
+    {
+        "name": "Bridging English Language Development",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Bridging ELD is designed for English learners with a score of a high 2 on the Initial English Language Proficiency Assessment for California (ELPAC) or a score of a high 3-4 on the Summative ELPAC from the prior year. This course is focused on providing comprehensive access to the English Language Development Standards aligned to the “bridging” proficiency level. Students will develop high-level English language skills to use in a wide variety of contexts. Students will also develop the skills necessary to comprehend and produce technical texts. Established score ranges on the ELPAC will be used to help determine student placement in this course.",
         "term": "Year"
     },
     {
@@ -507,7 +498,6 @@
         "name": "Algebra A",
         "schools": [
             "Acalanes",
-            "Campolindo",
             "Las Lomas"
         ],
         "years": [
@@ -553,34 +543,6 @@
         "term": "Year"
     },
     {
-        "name": "Math Applications",
-        "schools": [
-            "Acalanes",
-            "Campolindo"
-        ],
-        "years": [
-            "11",
-            "12"
-        ],
-        "previous_courses": "Algebra 1",
-        "description": "Math Applications provides an alternative to the traditional study of Geometry and Algebra 2. Students will experience a highly relevant and “hands−on” approach to learning. Math Applications will  incorporate selected concepts from Geometry and Algebra 2 enabling students to gain experience solving real−life mathematical problems.",
-        "term": "Year"
-    },
-    {
-        "name": "Advanced Algebra with Financial Applications",
-        "schools": [
-            "Las Lomas",
-            "Miramonte"
-        ],
-        "years": [
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "Financial Algebra is a mathematical course that is algebra−based and applications−oriented. The course addresses college preparatory mathematics topics from Algebra, Statistics and Probability and more under seven financial umbrellas: Banking, Investing, Credit, Employment and Income Taxes, Automobile Ownership, Independent Living, and Retirement Planning and Household Budgeting. The mathematics topics contained in this course are introduced, developed, and applied in an as−needed format in the financial settings covered. Students are encouraged to use a variety of problem−solving skills and strategies in real−world contexts, and to question outcomes using mathematical analysis and data to support their findings.",
-        "term": "Year"
-    },
-    {
         "name": "Geometry",
         "schools": [
             "Acalanes",
@@ -614,6 +576,20 @@
         ],
         "previous_courses": "Algebra 1",
         "description": "The fundamental purpose of the California State Standards Geometry Advanced course is to formalize and extend the mathematics that students learned in the middle grades. This is an accelerated, fast paced mathematics course which includes content standards from the conceptual categories of Congruence, Similarity, Right Triangles and Trigonometry, Circles, Expressing Geometric Properties with Equations, Geometric Measurement and Dimension, Conditional Probability, Rules of Probability and Using Probability and Statistics. Through the application of the Standards for Mathematical Practice, students will increasingly engage with the subject matter and grow in mathematical maturity and expertise.",
+        "term": "Year"
+    },
+    {
+        "name": "Advanced Algebra with Financial Applications",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Financial Algebra is a mathematical course that is algebra−based and applications−oriented. The course addresses college preparatory mathematics topics from Algebra, Statistics and Probability and more under seven financial umbrellas: Banking, Investing, Credit, Employment and Income Taxes, Automobile Ownership, Independent Living, and Retirement Planning and Household Budgeting. The mathematics topics contained in this course are introduced, developed, and applied in an as−needed format in the financial settings covered. Students are encouraged to use a variety of problem−solving skills and strategies in real−world contexts, and to question outcomes using mathematical analysis and data to support their findings.",
         "term": "Year"
     },
     {
@@ -658,12 +634,11 @@
             "Miramonte"
         ],
         "years": [
-            "9",
             "10",
             "11",
             "12"
         ],
-        "previous_courses": "Algebra 1 and Geometry",
+        "previous_courses": "Geometry",
         "description": "This accelerated course covers the Algebra 2 Advanced content, but in greater depth. In addition to the Algebra 2 topics that include real and complex numbers, families of functions and concepts of trigonometry, included are Pre−Calculus topics such as a complete study of conic sections, polar coordinates, vectors, parametric equations, and introductions to limits and derivatives. The course is designed to prepare students to take Calculus AB the following year. Students will be expected to solve higher order thinking problems and demonstrate procedural fluency in their responses.",
         "term": "Year"
     },
@@ -699,7 +674,7 @@
         "term": "Year"
     },
     {
-        "name": "Statistics",
+        "name": "Statistics and Data Science",
         "schools": [
             "Acalanes",
             "Campolindo",
@@ -710,22 +685,8 @@
             "11",
             "12"
         ],
-        "previous_courses": "Algebra 2",
-        "description": "This course introduces the discipline of statistics to students to provide a solid foundation in problem solving and processing statistical information. Students will leverage statistical analysis and computation using a variety of real−world problems and information from business, science, economics and other sources.",
-        "term": "Year"
-    },
-    {
-        "name": "Statistics and Data Science",
-        "schools": [
-            "Acalanes",
-            "This course may be offered at other schools"
-        ],
-        "years": [
-            "11",
-            "12"
-        ],
-        "previous_courses": "Most likely Algebra 2",
-        "description": "No description available.",
+        "previous_courses": "None",
+        "description": "Students in Statistics and Data Science will develop skills in both fields through an engaging, collaborative, and project-based curriculum. The course enables students to develop statistical and computation skills and then apply these skills to a range of real-world situations. Students will learn how to interpret and analyze large data sets related to fields such politics, science, and economics.",
         "term": "Year"
     },
     {
@@ -737,7 +698,6 @@
             "Miramonte"
         ],
         "years": [
-            "10",
             "11",
             "12"
         ],
@@ -757,7 +717,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Algebra 2/Pre−Calculus Honors",
+        "previous_courses": "Pre-calculus or Algebra 2/Pre−Calculus Honors",
         "description": "AP Calculus AB completes a college curriculum in variable calculus.  The course focuses on developing the student's understanding of the concepts of calculus and providing experience with its methods and applications.  The themes of derivatives, integrals, limits, approximation and applications and modeling are used to present a cohesive whole in the study of calculus.",
         "term": "Year"
     },
@@ -777,8 +737,9 @@
         "term": "Year"
     },
     {
-        "name": "Introduction to Computer Science",
+        "name": "AP Computer Science Principles",
         "schools": [
+            "Acalanes",
             "Campolindo",
             "Las Lomas",
             "Miramonte"
@@ -789,8 +750,8 @@
             "12"
         ],
         "previous_courses": "None",
-        "description": "This course exposes students to the fundamental principles and concepts of computer science and programming.  Students will learn to code through hands−on assignments which include game design, lab completion, independent projects and pair programming. This course serves as both an introduction to, and foundation for, further study in computer science.",
-        "term": "Semester"
+        "description": "AP Computer Science Principles introduces students to the central ideas of computer science, instilling the ideas and practices of computational thinking and inviting students to understand how computing changes the world.  The rigorous course promotes deep learning of computational content, develops computational thinking skills, and engages students in the creative aspects of the field. The course is unique in its focus on fostering students to be creative. Students are encouraged to apply creative processes when developing computational artifacts and to think creatively while using simulations to explore questions that interest them.",
+        "term": "Year"
     },
     {
         "name": "AP Computer Science A",
@@ -804,25 +765,8 @@
             "11",
             "12"
         ],
-        "previous_courses": "Introduction to Computer Science",
+        "previous_courses": "Algebra 2 or above",
         "description": "AP Computer Science A students will continue studying Java and object oriented programming methodology in preparation for the AP exam. There is an emphasis on problem solving, algorithm development, data structures, design and abstraction. While Introduction to Computer Programming is a preferred previous course of study, students who are highly motivated or who have prior programming experience or strong math backgrounds may take AP without the prerequisite year. If the school site offers this course as an ROP course, the student must be in 11th or 12th grade in order to enroll.",
-        "term": "Year"
-    },
-    {
-        "name": "AP Computer Science Principles",
-        "schools": [
-            "Acalanes",
-            "Campolindo",
-            "Las Lomas",
-            "Miramonte"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "Introduction to Computer Science, Pre-calculus or above (This is what AUHSD says, but they probably aren't needed)",
-        "description": "AP Computer Science Principles introduces students to the central ideas of computer science, instilling the ideas and practices of computational thinking and inviting students to understand how computing changes the world.  The rigorous course promotes deep learning of computational content, develops computational thinking skills, and engages students in the creative aspects of the field. The course is unique in its focus on fostering students to be creative. Students are encouraged to apply creative processes when developing computational artifacts and to think creatively while using simulations to explore questions that interest them.",
         "term": "Year"
     },
     "Physical Education",
@@ -840,20 +784,6 @@
         "previous_courses": "None",
         "description": "The ninth grade Physical Education course encompasses areas of physical education and is based on the California PE Model Standards. Students will focus on the development of proficient movement skills in each area of physical education; expanding their capabilities for independent learning; and examining practices that allow for sound decision making to enhance successful participation in movement activities.",
         "term": "Year"
-    },
-    {
-        "name": "PE Fundamentals of Yoga",
-        "schools": [
-            "Campolindo"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "Fundamentals of Yoga is a course that will provide students with an exercise experience using a non−competitive approach. Students will learn the basics of relaxation and breath techniques as well as the basic poses of Yoga: seated and standing poses, backbends, twists, balances and inversions. It will be a goal of the course to harmonize the body, mind, and spirit through a combination of physical movement, yoga postures, breathing and biofeedback techniques.",
-        "term": "Semester"
     },
     {
         "name": "PE Yoga, Pilates & Fitness Training",
@@ -875,7 +805,8 @@
     {
         "name": "PE Net Sports",
         "schools": [
-            "Campolindo"
+            "Campolindo",
+            "Las Lomas"
         ],
         "years": [
             "10",
@@ -884,21 +815,6 @@
         ],
         "previous_courses": "None",
         "description": "This course will provide students with the opportunity to learn skills and techniques in a variety of net games and lifetime activities. Emphasis will be placed on team, partner and individual strategy and may include badminton, tennis, volleyball, pickle ball, street hockey, disc golf, archery, and golf.",
-        "term": "Semester"
-    },
-    {
-        "name": "PE Team Sports",
-        "schools": [
-            "Las Lomas",
-            "Miramonte"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "In this course students will be given the opportunity to learn the skills and techniques of a variety of team sports through participation. Sports may include flag football, indoor/outdoor soccer, basketball, volleyball, softball, hockey,  rugball, team handball and ultimate frisbee. Emphasis will be placed on sportsmanship and offensive and  defensive strategies.",
         "term": "Semester"
     },
     {
@@ -969,21 +885,6 @@
         "term": "Year"
     },
     {
-        "name": "Earth and Space Science",
-        "schools": [
-            "Acalanes",
-            "Las Lomas",
-            "Miramonte"
-        ],
-        "years": [
-            "11",
-            "12"
-        ],
-        "previous_courses": "The Living Earth",
-        "description": "Earth and Space Science offers a comprehensive and in-depth study of Earth and Space Science (ESS) Next Generation Science Standards. The course will focus on three questions: What is the universe, and what is Earth’s place in it? How and why is Earth constantly changing? And, How do Earth’s surface processes and human activities affect each other? Students will develop an understanding of Earth as a set of interconnected systems, dynamically evolving through time. (Grade 10 students are eligible for enrollment in Earth and Space Science with concurrent enrollment in Chemistry in the Earth System)",
-        "term": "Year"
-    },
-    {
         "name": "Physics of the Universe",
         "schools": [
             "Acalanes",
@@ -1001,10 +902,23 @@
         "term": "Year"
     },
     {
+        "name": "Earth and Space Science",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "The Living Earth",
+        "description": "Earth and Space Science offers a comprehensive and in-depth study of Earth and Space Science (ESS) Next Generation Science Standards. The course will focus on three questions: What is the universe, and what is Earth’s place in it? How and why is Earth constantly changing? And, How do Earth’s surface processes and human activities affect each other? Students will develop an understanding of Earth as a set of interconnected systems, dynamically evolving through time. (Grade 10 students are eligible for enrollment in Earth and Space Science with concurrent enrollment in Chemistry in the Earth System)",
+        "term": "Year"
+    },
+    {
         "name": "Engineering & Applied Physics Honors",
         "schools": [
-            "Acalanes",
-            "Las Lomas"
+            "Acalanes"
         ],
         "years": [
             "11",
@@ -1049,14 +963,13 @@
     {
         "name": "Environmental Science",
         "schools": [
-            "Acalanes",
-            "Campolindo"
+            "Acalanes"
         ],
         "years": [
             "11",
             "12"
         ],
-        "previous_courses": "The Living Earth and either Chemistry in the Earth System or Geology",
+        "previous_courses": "The Living Earth and Chemistry in the Earth System",
         "description": "Environmental Science is an elective integrated science course which provides students with the scientific principles, concepts, methodologies and experiences required to understand the inter−relationships of the natural world, identify and analyze both natural and man−made environmental problems, evaluate risks associated with these problems, and to examine alternative solutions for resolving and/or preventing these problems.  This is a lab course.  Students utilize modern technological equipment as well as the campus as a living laboratory.",
         "term": "Year"
     },
@@ -1175,7 +1088,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "AP Physics 1 or Physics",
+        "previous_courses": "AP Physics 1",
         "description": "This course is the second of a two−year course sequence. AP Physics 2 is equivalent to the second semester of a typical introductory, algebra−based, college physics course.  It covers electricity and magnetism, thermodynamics, fluids, and modern physics.  Students will have time to gain a greater depth of conceptual understanding through the use of inquiry−based practice.  Students will learn important science process skills such as explaining casual relationships, applying and justifying the use of mathematical routines, designing experiments, analyzing data, and making connections across multiple topics within the course.",
         "term": "Year"
     },
@@ -1204,7 +1117,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Algebra 1, The Living Earth and either Chemistry in the Earth System or Geology",
+        "previous_courses": "The Living Earth and Chemistry in the Earth System",
         "description": "AP Environmental Science provides students with the scientific principles, concepts, and methodologies required to understand the interrelationships of the natural world, to identify and analyze environmental problems both natural and human−made, to evaluate the relative risks associated with these problems, and to examine alternative solutions for resolving and/or preventing them.  Environmental Science is interdisciplinary; it embraces a wide variety of topics from different areas of study.  If the school site offers this course as an ROP course, the student must be in 11th or 12th grade in order to enroll.",
         "term": "Year"
     },
@@ -1271,34 +1184,6 @@
         "term": "Semester"
     },
     {
-        "name": "Global Studies",
-        "schools": [
-            "Miramonte"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "Global Studies introduces students to the world by investigating modern issues in different parts of the globe and investigating the broader scale of those issues.  Students will analyze the geographic, cultural, political, and historical aspects of the issues and apply them on a global scale.  The course includes studies on wealth and poverty, the environment, migration/immigration, global conflicts/terrorism, and media literacy as well as breaking news/breaking world events.  The course will encourage students to develop critical thinking skills through identifying long−term implications of both past and present events.  Students will be required to read, discuss, debate, analyze, work in groups, and think critically on a variety of topics.",
-        "term": "Semester"
-    },
-    {
-        "name": "Introduction to Psychology",
-        "schools": [
-            "Campolindo"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "Psychology is the study of the behavior and thought of humans and other animals.  Although it has been a topic of intellectual conjecture for centuries, psychology as a standard academic discipline is less than 150 years old.  In that time it has branched off in many areas of specialization that address such issues as the development of children, the motivation of athletes, the best way to treat substance abuse, how people form memories, etc.  This course is an introduction to the basic subfields within psychology.  We will be researching famous psychologists, investigating contemporary examples of psychological phenomena, discussing experiences, and forming hypotheses about how and why people and animals think and behave.",
-        "term": "Semester"
-    },
-    {
         "name": "Contemporary Issues & Public Policy",
         "schools": [
             "Acalanes"
@@ -1331,11 +1216,11 @@
     {
         "name": "Psychology",
         "schools": [
-            "Acalanes",
             "Las Lomas",
             "Miramonte"
         ],
         "years": [
+            "11",
             "12"
         ],
         "previous_courses": "None",
@@ -1398,6 +1283,19 @@
         "term": "Semester"
     },
     {
+        "name": "AP Macroeconomics",
+        "schools": [
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "AP Macroeconomics provides an introductory, college−level presentation of the principles of economics that apply to an economic system as a whole.  A particular emphasis is placed on the study of national income and price−level determination, economic performance measures, the financial sector, stabilization policies, economic growth and international economics.",
+        "term": "Semester"
+    },
+    {
         "name": "AP European History",
         "schools": [
             "Acalanes",
@@ -1415,23 +1313,9 @@
         "term": "Year"
     },
     {
-        "name": "AP African American Studies",
-        "schools": [
-            "Acalanes",
-            "This course may be offered at other schools"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "Most likely World History",
-        "description": "(From College Board) AP African American Studies is an interdisciplinary course that examines the diversity of African American experiences through direct encounters with rich and varied sources. Students explore key topics that extend from early African kingdoms to the ongoing challenges and achievements of the contemporary moment.",
-        "term": "Year"
-    },
-    {
         "name": "AP Human Geography",
         "schools": [
+            "Campolindo",
             "Las Lomas"
         ],
         "years": [
@@ -1452,25 +1336,12 @@
             "Acalanes"
         ],
         "years": [
-            "11 (not at Acalanes)",
+            "11",
             "12"
         ],
         "previous_courses": "None",
         "description": "This course introduces students to the systematic and scientific study of the behavior and mental processes of human beings and other animals.  Included is a consideration of the psychological facts, principles, and phenomena associated with each of the major subfields within psychology.  Students also learn about the ethics and methods  psychologists use in their science and practice.",
         "term": "Year"
-    },
-    {
-        "name": "AP Macroeconomics",
-        "schools": [
-            "Las Lomas",
-            "Miramonte"
-        ],
-        "years": [
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "AP Macroeconomics provides an introductory, college−level presentation of the principles of economics that apply to an economic system as a whole.  A particular emphasis is placed on the study of national income and price−level determination, economic performance measures, the financial sector, stabilization policies, economic growth and international economics.",
-        "term": "Semester"
     },
     "Visual and Performing Arts",
     {
@@ -1552,13 +1423,27 @@
             "12"
         ],
         "previous_courses": "Advanced Art or Advanced Art, Honors",
-        "description": "Advanced Art or Advanced Art, HonorsStudents work at an advanced skill level in producing an independent portfolio of two−dimensional and/or three−dimensional works.  Students choose an artistic concern/theme to serve as the focus of their work.  Students are required to collaborate with the teacher to do outside gallery visits and reviews, as well as oral and written critiques of historical and contemporary artists.",
+        "description": "Students work at an advanced skill level in producing an independent portfolio of two−dimensional and/or three−dimensional works.  Students choose an artistic concern/theme to serve as the focus of their work.  Students are required to collaborate with the teacher to do outside gallery visits and reviews, as well as oral and written critiques of historical and contemporary artists.",
         "term": "Year"
     },
     {
-        "name": "AP Studio Art",
+        "name": "AP 2-D Art and Design",
         "schools": [
             "Acalanes",
+            "Campolindo",
+            "Las Lomas"
+        ],
+        "years": [
+            "11",
+            "12"
+        ],
+        "previous_courses": "Advanced Art, Advanced Art Honors, or Digital Photo Advanced",
+        "description": "Students in AP 2-D Art and Design will develop their artistic skills through the use of a range of materials and processes. This course encourages creative and systematic investigation of formal and conceptual issues. It presents the making of art as an ongoing process that requires informed, critical thinking skills. AP 2-D Art and Design helps students develop technical skills and familiarizes them with the functions of the visual elements. Students are encouraged to become independent thinkers who will contribute inventively and critically to their culture through the making of art.",
+        "term": "Year"
+    },
+    {
+        "name": "AP Drawing",
+        "schools": [
             "Campolindo",
             "Las Lomas",
             "Miramonte"
@@ -1567,8 +1452,8 @@
             "11",
             "12"
         ],
-        "previous_courses": "Advanced Art",
-        "description": "This course is designed to encourage creative and systematic investigation of formal and conceptual issues, while placing an emphasis on making art as an ongoing process that involve the student in informed and critical decision making.  AP Studio Art helps students develop technical skills and familiarize them with the functions of the visual elements.  Students are encouraged to become independent thinkers who will contribute inventively and critically to their culture through the making of art.",
+        "previous_courses": "Advanced Art or Advanced Art Honors",
+        "description": "Students in AP Drawing will develop their drawing skills through a range of materials and processes. This course is designed to encourage creative and systematic investigation of formal and conceptual issues. It presents the making of art as an ongoing process that requires informed, critical thinking skills. AP Drawing helps students develop technical skills and familiarizes them with the functions of the visual elements. Students are encouraged to become independent thinkers who will contribute inventively and critically to their culture through the making of art.",
         "term": "Year"
     },
     {
@@ -1645,20 +1530,6 @@
         "term": "Year"
     },
     {
-        "name": "World Art",
-        "schools": [
-            "Las Lomas"
-        ],
-        "years": [
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "World Art offers students a dynamic, informative, meaningful and fun, semester art production course. World Art offers non−art oriented students the opportunity to explore their creativity in a less technically focused or skills based art course. This course is a unique blend of global studies and art production.",
-        "term": "Year"
-    },
-    {
         "name": "Photo/Digital Design",
         "schools": [
             "Acalanes",
@@ -1682,24 +1553,12 @@
             "Campolindo"
         ],
         "years": [
+            "10",
             "11",
             "12"
         ],
         "previous_courses": "Photography/Digital Design",
         "description": "In this second−level photography course students will achieve the five major Standards of the California Arts curriculum at an expert or more proficient level.  The course will provide students with opportunities to extend and advance their knowledge and skills in the field of photography.  This course will familiarize the student with advanced photographic equipment, materials, methods and the digital processes.  Also, students will focus on the history of photography and photographers studying and emulating a variety of photographic styles.  This course may be offered as an ROP course.",
-        "term": "Year"
-    },
-    {
-        "name": "AP Studio Art: 2D Photo",
-        "schools": [
-            "Campolindo"
-        ],
-        "years": [
-            "11",
-            "12"
-        ],
-        "previous_courses": "Digital Photography Advanced",
-        "description": "This course is designed to develop student mastery in the concept, composition and execution of their two−dimensional works in photography and 2−D design.  Students will have the opportunity to produce a two−dimensional portfolio fulfilling the requirements as set by The College Board for Studio Art AP.  The portfolio has specific requirements which include:  Section I−−Quality, excellence demonstrated in original art works; Section II−−Concentration, an in−depth, personal commitment to a particular artistic concern; Section III−−Breadth shows a variety of experiences in using the formal, technical and expressive means available to an artist.",
         "term": "Year"
     },
     {
@@ -1849,6 +1708,7 @@
         "name": "Stagecraft",
         "schools": [
             "Acalanes",
+            "Campolindo",
             "Las Lomas",
             "Miramonte"
         ],
@@ -1896,7 +1756,7 @@
         "term": "Year"
     },
     {
-        "name": "Choral Performance 2 (M/W Ensemble)",
+        "name": "Choral Performance 2 (Bass/Treble Ensemble)",
         "schools": [
             "Campolindo",
             "Las Lomas",
@@ -1909,7 +1769,7 @@
             "12"
         ],
         "previous_courses": "Choral Performance 1",
-        "description": "Choral Performance 2 is a beginning to intermediate vocal music course.  Students will further develop their knowledge of music fundamentals, vocal technique, sight−reading, and historical and cultural perspectives of choral music.  Members will perform a variety of repertoire from different historic periods and cultures from two, three, and four−part selections for voices.",
+        "description": "Choral Performance 2 is a beginning to intermediate vocal music course. Students will further develop their knowledge of music fundamentals, vocal technique, sight-reading, and historical and cultural perspectives of choral music. Members will perform a variety of repertoire from different historic periods and cultures from two, three, and four-part selections for voices.",
         "term": "Year"
     },
     {
@@ -1963,7 +1823,6 @@
     {
         "name": "Musical Theater Workshop",
         "schools": [
-            "Las Lomas",
             "Miramonte"
         ],
         "years": [
@@ -1990,7 +1849,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Audition",
+        "previous_courses": "None",
         "description": "Concert Band is open to all students. There will be continued development of instrumental techniques and ensemble skills through the study of outstanding repertoire for Concert Band.  The preparation process is the important component of the program, in that the performance of each student in the instrumental class is critically important to, and affects the performance of, every other student in the class.",
         "term": "Year"
     },
@@ -2008,7 +1867,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Audition",
+        "previous_courses": "None",
         "description": "Jazz Ensemble is a selective and specialized course designed to offer the qualified instrumentalist the opportunity to study and perform a variety of jazz styles.  Emphasis is on learning improvisation as well as advanced music reading.  This group is involved in several performances throughout the community.  The preparation process is the important component of the program, in that the performance of each student in the instrumental class is critically important to, and affects the performance of, every other student in the class.",
         "term": "Year"
     },
@@ -2104,7 +1963,7 @@
         "years": [
             "12"
         ],
-        "previous_courses": "None",
+        "previous_courses": "Wind Ensemble",
         "description": "Wind Ensemble Honors provides an ensemble approach to music of all periods. Students in Wind Ensemble Honors will represent the school at numerous performances and festivals. Students enrolled in this honors course will be expected to perform with mastery in all aspects of advanced academic instrumental music performance and technique. Wind Ensemble Honors is a class that builds on the existing advanced coursework in the Wind Ensemble curriculum. Students enrolled in Wind Ensemble Honors will do all of the work and performing required of them for the Wind Ensemble class; in addition, they will complete a capstone project that will engage them in honors-level work for both semesters.",
         "term": "Year"
     },
@@ -2217,6 +2076,7 @@
             "Campolindo"
         ],
         "years": [
+            "9",
             "10",
             "11",
             "12"
@@ -2250,7 +2110,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "German 2 or equivalent experience",
+        "previous_courses": "German 2",
         "description": "The third−year language course enables students to  develop high−intermediate proficiency in the language skills of  listening,  speaking, writing and reading.  Students will develop an increasing awareness of the idiomatic aspects of language, begin to study the literature and continue to study the culture of countries using the language.",
         "term": "Year"
     },
@@ -2263,7 +2123,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "German 3 or equivalent experience",
+        "previous_courses": "German 3",
         "description": "This fourth−year language course enables students to develop advanced proficiency in the language skills of listening, speaking, writing, and reading.  Students will use idiomatic aspects of language, and continue to study the culture and literature of countries using German.",
         "term": "Year"
     },
@@ -2276,7 +2136,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "German 4 Honors or equivalent experience",
+        "previous_courses": "German 4 Honors",
         "description": "This fifth−year German language course enables students to develop advanced proficiency in the language skills of listening, speaking, writing, and reading.  Students will use idiomatic aspects of language, and continue to study the culture and literature of German−speaking people.  Students will prepare for the advanced placement examination.",
         "term": "Year"
     },
@@ -2434,7 +2294,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Mandarin 1 or equivalent experience",
+        "previous_courses": "Mandarin 1",
         "description": "Mandarin 2 will broaden students' ability in the language of Mandarin (listening, speaking, reading and writing) and the understanding of the Chinese culture.  It will enable them to read longer paragraphs and carry on extended conversations.  By the end of the course, students will learn how to have extended conversations in Mandarin; further expand their knowledge of Chinese characters; and further expand their understanding of the Chinese culture.",
         "term": "Year"
     },
@@ -2451,7 +2311,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Mandarin 2 or equivalent experience",
+        "previous_courses": "Mandarin 2",
         "description": "This third year Mandarin course enables students to increase their proficiency in the four skills of listening, speaking, reading and writing.  They will further expand their understanding of the Chinese culture, extend their skills in grammar, and be encouraged to increase their communicative interaction with native speakers.  The course objectives include the following: (1) Speaking and listening: Performing all classroom activities entirely in Mandarin. (2)  Reading: students are able to read short stories and anecdotes and getting the general idea of the meaning. Students will memorize approximately 225 more Chinese characters. (3) Writing: students write long paragraphs in a daily journal and write short essays on a given topic. Students will use more discourse markers in their written and spoken discourse. (4)  Cultural activities are arranged to provide each student with opportunities to enhance language and cultural learning.  Students will study the Chinese culture, including religion, music, performing art, food, jade, medicine, medical care, etc.",
         "term": "Year"
     },
@@ -2467,7 +2327,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Mandarin 3 or equivalent experience",
+        "previous_courses": "Mandarin 3",
         "description": "The fourth year Mandarin course enables students to broaden their ability in the language of Mandarin through listening, speaking, reading and writing and appreciation of the Chinese culture.  The course objectives include speaking and listening, reading.  Students will memorize approximately 350 Chinese characters.  Students will analyze commonalities and differences between Chinese and American culture through dialogue and writing.",
         "term": "Year"
     },
@@ -2483,7 +2343,7 @@
             "11",
             "12"
         ],
-        "previous_courses": "Mandarin 4 Honors or equivalent experience",
+        "previous_courses": "Mandarin 4",
         "description": "This fifth year Mandarin course is designed to deepen students’ immersion into the language and culture of the Chinese−speaking world.  Students will develop a broad range of language skills within a cultural frame of reference.  The course focuses on language proficiency through listening, speaking, reading and writing while interweaving cultural content.",
         "term": "Year"
     },
@@ -2541,21 +2401,6 @@
         "term": "Year"
     },
     {
-        "name": "Spanish for Heritage Speakers",
-        "schools": [
-            "Las Lomas"
-        ],
-        "years": [
-            "9",
-            "10",
-            "11",
-            "12"
-        ],
-        "previous_courses": "None",
-        "description": "Spanish for Heritage Speakers is a course for students who have Spanish speaking or bilingual background. During this course students will refine their listening and oral skills as they develop their formal reading and writing abilities in Spanish to expand the grammatical structures, orthography, accents and vocabulary beyond their region of origin. This course exposes students to Hispanic culture via high interest and culturally−relevant thematic units and will utilize authentic resources (videos, audio, articles, art, music, literature, etc) from Spanish and Latin American authors in order to gain and appreciation for the cultural perspectives associated with the cultural products and practices of the Spanish−speaking world.",
-        "term": "Year"
-    },
-    {
         "name": "Spanish 4 Honors",
         "schools": [
             "Acalanes",
@@ -2587,7 +2432,39 @@
         "description": "While emphasizing the use of Spanish for active communication, this course encompasses aural/oral skills, reading comprehension, grammar, and composition.  This course is designed to develop comprehension and expression of formal and informal spoken Spanish in an accurate and fluent fashion.  Vocabulary development and the composition of expository passages are highlighted.",
         "term": "Year"
     },
+    {
+        "name": "Spanish for Heritage Speakers",
+        "schools": [
+            "Las Lomas"
+        ],
+        "years": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "Spanish for Heritage Speakers is a course for students who have Spanish speaking or bilingual background. During this course students will refine their listening and oral skills as they develop their formal reading and writing abilities in Spanish to expand the grammatical structures, orthography, accents and vocabulary beyond their region of origin. This course exposes students to Hispanic culture via high interest and culturally−relevant thematic units and will utilize authentic resources (videos, audio, articles, art, music, literature, etc) from Spanish and Latin American authors in order to gain and appreciation for the cultural perspectives associated with the cultural products and practices of the Spanish−speaking world.",
+        "term": "Year"
+    },
     "Interdisciplinary",
+    {
+        "name": "AP African American Studies",
+        "schools": [
+            "Acalanes",
+            "Campolindo",
+            "Las Lomas",
+            "Miramonte"
+        ],
+        "years": [
+            "10",
+            "11",
+            "12"
+        ],
+        "previous_courses": "None",
+        "description": "AP African American Studies provides an in-depth look at African American history and culture. Through an interdisciplinary approach that includes history, literature, economics, and the arts, students will gain a deep understanding of the African American experience. The course emphasizes the use of primary source documents and requires a culminating research project. Students in this AP course will develop critical reading, writing, and analytical skills",
+        "term": "Year"
+    },
     {
         "name": "Human & Social Development",
         "schools": [
@@ -2663,6 +2540,7 @@
             "Miramonte"
         ],
         "years": [
+            "9",
             "10",
             "11",
             "12"
